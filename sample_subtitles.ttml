@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="2.083s" xml:id="p0" end="6.292s">St. Lucia is the most beautiful<br />island in the Caribbean.</p>
+      <p begin="6.292s" xml:id="p1" end="10.334s">It&#039;s green from the beach...</p>
+      <p begin="10.334s" xml:id="p2" end="12.876s">all the way up to the top.</p>
+      <p begin="12.876s" xml:id="p3" end="14.375s">And it&#039;s lush.</p>
+      <p begin="14.375s" xml:id="p4" end="16.667s">It&#039;s straight out of a postcard.</p>
+      <p begin="16.667s" xml:id="p5" end="18.792s">Absolutely beautiful.</p>
+      <p begin="18.792s" xml:id="p6" end="22.375s">And it&#039;s just, like, wow.</p>
+      <p begin="22.375s" xml:id="p7" end="24.834s">Oh, this is a sh-- sandwich.</p>
+      <p begin="24.834s" xml:id="p8" end="27.584s">I have been a captain 37 years.</p>
+      <p begin="27.584s" xml:id="p9" end="30.584s">Everybody wants to be<br />a captain</p>
+      <p begin="30.584s" xml:id="p10" end="32.083s">till it&#039;s time to do<br />captain sh--.</p>
+      <p begin="32.083s" xml:id="p11" end="35.125s">Why are we losing the bow again?</p>
+      <p begin="35.125s" xml:id="p12" end="36.334s">Pull, pull, pull.</p>
+      <p begin="36.334s" xml:id="p13" end="37.167s">Son of a--</p>
+      <p begin="37.167s" xml:id="p14" end="39.792s">I&#039;ve set my expectations<br />for this season</p>
+      <p begin="39.792s" xml:id="p15" end="41.876s">so far out of the ----ing park.</p>
+      <p begin="41.876s" xml:id="p16" end="43.125s">We have an issue, sir.</p>
+      <p begin="43.125s" xml:id="p17" end="47.667s">Look at me.</p>
+      <p begin="47.667s" xml:id="p18" end="49.167s">Shrunk?</p>
+      <p begin="49.167s" xml:id="p19" end="51.334s">♪ You in the presence of<br />an OG ♪</p>
+      <p begin="51.334s" xml:id="p20" end="56.0s">After all these years, I&#039;ve kind<br />of become the mercenary chef.</p>
+      <p begin="56.0s" xml:id="p21" end="57.792s">I&#039;m so over it.</p>
+      <p begin="57.792s" xml:id="p22" end="60.751s">It&#039;s gonna haunt me for<br />the rest of my ----ing life.</p>
+      <p begin="60.751s" xml:id="p23" end="62.792s">I&#039;m just coming in to<br />murder some sh--</p>
+      <p begin="62.792s" xml:id="p24" end="64.751s">and be that bitch<br />that makes you tips.</p>
+      <p begin="64.751s" xml:id="p25" end="69.125s">♪ Go, Rachel, it&#039;s your<br />birthday, it&#039;s your birthday ♪</p>
+      <p begin="69.125s" xml:id="p26" end="72.501s">I am back, and I&#039;ve<br />been crowned king.</p>
+      <p begin="72.501s" xml:id="p27" end="73.751s">Well, chief stew.</p>
+      <p begin="73.751s" xml:id="p28" end="77.167s">It&#039;s not about how well you do,<br />unless you do really badly.</p>
+      <p begin="77.167s" xml:id="p29" end="79.459s">Wait, it&#039;s a quite<br />confusing too, actually.</p>
+      <p begin="79.459s" xml:id="p30" end="80.959s">Just one sec and<br />you can talk later,</p>
+      <p begin="80.959s" xml:id="p31" end="83.375s">to yourself,<br />when I&#039;m not around.</p>
+      <p begin="83.375s" xml:id="p32" end="85.417s">It&#039;s so good to be in charge.</p>
+      <p begin="85.417s" xml:id="p33" end="86.876s">No!</p>
+      <p begin="86.876s" xml:id="p34" end="88.417s">Hm.</p>
+      <p begin="88.417s" xml:id="p35" end="90.542s">I come from the<br />old school of yachting.</p>
+      <p begin="90.542s" xml:id="p36" end="91.959s">Nice throw!</p>
+      <p begin="91.959s" xml:id="p37" end="93.626s">When you work hard,<br />you work hard.</p>
+      <p begin="93.626s" xml:id="p38" end="95.0s">This is why I did my stretches.</p>
+      <p begin="95.0s" xml:id="p39" end="96.25s">Ah!</p>
+      <p begin="96.25s" xml:id="p40" end="101.25s">But you should be able<br />to play hard.</p>
+      <p begin="101.25s" xml:id="p41" end="103.125s">I have definitely<br />overstepped that line,</p>
+      <p begin="103.125s" xml:id="p42" end="105.667s">but we try our best<br />to be professional.</p>
+      <p begin="105.667s" xml:id="p43" end="109.959s">Who&#039;s been a good Ross?</p>
+      <p begin="109.959s" xml:id="p44" end="111.709s">I love this attention.</p>
+      <p begin="111.709s" xml:id="p45" end="113.0s">♪ I wanna be</p>
+      <p begin="113.0s" xml:id="p46" end="114.25s">I&#039;m definitely a flirty person.</p>
+      <p begin="114.25s" xml:id="p47" end="115.667s">♪ More than just a friend</p>
+      <p begin="115.667s" xml:id="p48" end="116.959s">Small-talk me.</p>
+      <p begin="116.959s" xml:id="p49" end="119.209s">Well, we just have been<br />small-talking.</p>
+      <p begin="119.209s" xml:id="p50" end="120.959s">I think we&#039;ve<br />been medium-talking.</p>
+      <p begin="120.959s" xml:id="p51" end="122.375s">Okay.</p>
+      <p begin="122.375s" xml:id="p52" end="124.167s">Hooking up in yachting,<br />you&#039;re on these boats,</p>
+      <p begin="124.167s" xml:id="p53" end="127.292s">pent-up stress.</p>
+      <p begin="127.292s" xml:id="p54" end="130.792s">The attention is ----ing<br />like a dream on a yacht.</p>
+      <p begin="130.792s" xml:id="p55" end="133.959s">-Yeah, could I?<br />-Rude.</p>
+      <p begin="133.959s" xml:id="p56" end="138.501s">I am a small-town<br />Mississippi gal.</p>
+      <p begin="138.501s" xml:id="p57" end="139.792s">Is she my boss?</p>
+      <p begin="139.792s" xml:id="p58" end="141.125s">I&#039;m a really big personality.</p>
+      <p begin="141.125s" xml:id="p59" end="142.542s">I love to twerk.</p>
+      <p begin="142.542s" xml:id="p60" end="146.459s">Spitting everywhere, too,<br />but I do love to twerk.</p>
+      <p begin="146.459s" xml:id="p61" end="148.709s">-That&#039;s what I like to see.<br />-Yeah.</p>
+      <p begin="148.709s" xml:id="p62" end="150.584s">Oh, my God.</p>
+      <p begin="150.584s" xml:id="p63" end="153.751s">This is normal<br />charter activity.</p>
+      <p begin="153.751s" xml:id="p64" end="155.751s">Yachting is like Neverland,<br />it&#039;s not real.</p>
+      <p begin="155.751s" xml:id="p65" end="157.834s">♪ Hey, baby, hey</p>
+      <p begin="157.834s" xml:id="p66" end="162.709s">♪ What&#039;s your phone number</p>
+      <p begin="162.709s" xml:id="p67" end="165.083s">First time I had sex in<br />Florida was on a jet-ski.</p>
+      <p begin="165.083s" xml:id="p68" end="167.209s">-Oh, okay.<br />-Wait, you&#039;ve had sex?</p>
+      <p begin="167.209s" xml:id="p69" end="168.792s">Being a woman on deck,</p>
+      <p begin="168.792s" xml:id="p70" end="170.292s">you do feel like you<br />have to work harder.</p>
+      <p begin="170.292s" xml:id="p71" end="172.375s">-Wrap, wrap, wrap.<br />-Take it up, take it up.</p>
+      <p begin="172.375s" xml:id="p72" end="175.876s">Do it a 110 percent<br />or don&#039;t do it at all.</p>
+      <p begin="175.876s" xml:id="p73" end="178.751s">I might be a pretty face,<br />but I know how to rock it.</p>
+      <p begin="178.751s" xml:id="p74" end="180.667s">No.</p>
+      <p begin="180.667s" xml:id="p75" end="182.584s">Excellent, Miami.</p>
+      <p begin="182.584s" xml:id="p76" end="184.25s">Bring it on.</p>
+      <p begin="184.25s" xml:id="p77" end="197.792s">All my life fits in a backpack.</p>
+      <p begin="197.792s" xml:id="p78" end="200.959s">[speaks foreign language]</p>
+      <p begin="200.959s" xml:id="p79" end="203.167s">I&#039;ve just wet myself.</p>
+      <p begin="203.167s" xml:id="p80" end="207.876s">People would describe me<br />as a sensational,</p>
+      <p begin="207.876s" xml:id="p81" end="220.083s">stunning, hot mess<br />crazy bitch.</p>
+      <p begin="220.083s" xml:id="p82" end="223.375s">We are going to work<br />your asses to the bone.</p>
+      <p begin="223.375s" xml:id="p83" end="226.083s">Everybody literally is like,<br />we need somebody faster.</p>
+      <p begin="226.083s" xml:id="p84" end="228.292s">Okay, then you ----ing do it.</p>
+      <p begin="228.292s" xml:id="p85" end="229.417s">Woo!</p>
+      <p begin="229.417s" xml:id="p86" end="231.0s">Yachting&#039;s not all<br />fun and games.</p>
+      <p begin="231.0s" xml:id="p87" end="233.167s">You have a problem with me<br />for no Goddamn ----ing reason.</p>
+      <p begin="233.167s" xml:id="p88" end="234.667s">No, I don&#039;t.</p>
+      <p begin="234.667s" xml:id="p89" end="236.0s">-It&#039;s deadly serious.<br />-We&#039;re gonna hit.</p>
+      <p begin="236.0s" xml:id="p90" end="237.334s">Oh!</p>
+      <p begin="237.334s" xml:id="p91" end="238.792s">It will chew your<br />little dumb ass out</p>
+      <p begin="238.792s" xml:id="p92" end="240.375s">and spit you out in a heartbeat.</p>
+      <p begin="240.375s" xml:id="p93" end="242.959s">Whoa!</p>
+      <p begin="242.959s" xml:id="p94" end="244.584s">Prepare to abandon ship.</p>
+      <p begin="244.584s" xml:id="p95" end="246.751s">Y&#039;all are gonna make<br />me ----ing quit.</p>
+      <p begin="246.751s" xml:id="p96" end="247.918s">[sobs]</p>
+      <p begin="247.918s" xml:id="p97" end="249.042s">We wouldn&#039;t mind.</p>
+      <p begin="249.042s" xml:id="p98" end="250.792s">Bye!</p>
+      <p begin="250.792s" xml:id="p99" end="271.083s">What a horrible group of people.</p>
+      <p begin="271.083s" xml:id="p100" end="274.959s">Wow, she is big.</p>
+      <p begin="274.959s" xml:id="p101" end="276.834s">Oh, for God&#039;s sake.</p>
+      <p begin="276.834s" xml:id="p102" end="281.709s">Why is it on every CV they<br />always go &quot;self-motivated?&quot;</p>
+      <p begin="281.709s" xml:id="p103" end="285.959s">Oh, my God, it&#039;s huge.</p>
+      <p begin="285.959s" xml:id="p104" end="287.25s">Oh, this is brilliant.</p>
+      <p begin="287.25s" xml:id="p105" end="288.959s">Where the hell am I?</p>
+      <p begin="288.959s" xml:id="p106" end="292.417s">It&#039;s so nice!<br />You&#039;re kidding me.</p>
+      <p begin="292.417s" xml:id="p107" end="294.709s">Right, well, they could have<br />made the beds, at least.</p>
+      <p begin="294.709s" xml:id="p108" end="297.167s">Let&#039;s go find El Capitan.</p>
+      <p begin="297.167s" xml:id="p109" end="298.334s">[knocking]</p>
+      <p begin="298.334s" xml:id="p110" end="299.792s">-Fraser!<br />-Lovely to see you.</p>
+      <p begin="299.792s" xml:id="p111" end="301.042s">Good to see you again.</p>
+      <p begin="301.042s" xml:id="p112" end="302.834s">Gosh, it&#039;s so good to be back!</p>
+      <p begin="302.834s" xml:id="p113" end="305.0s">I know you&#039;re gonna shine this<br />year, you shined last year.</p>
+      <p begin="305.0s" xml:id="p114" end="306.375s">Thank you, sir.</p>
+      <p begin="306.375s" xml:id="p115" end="309.417s">I left My Seanna and<br />I went back to the Med,</p>
+      <p begin="309.417s" xml:id="p116" end="312.667s">and I&#039;ve been a chief<br />for a season now.</p>
+      <p begin="312.667s" xml:id="p117" end="314.751s">The kind of boss I wanna be,<br />I wanna be a friend,</p>
+      <p begin="314.751s" xml:id="p118" end="316.375s">but I also want to be a leader.</p>
+      <p begin="316.375s" xml:id="p119" end="317.959s">But I&#039;m gonna try and see<br />if I can merge both personal</p>
+      <p begin="317.959s" xml:id="p120" end="321.626s">and professional together and<br />create something wonderful.</p>
+      <p begin="321.626s" xml:id="p121" end="324.292s">Here are your stews.</p>
+      <p begin="324.292s" xml:id="p122" end="326.459s">Alissa, oh, brilliant.</p>
+      <p begin="326.459s" xml:id="p123" end="330.375s">This one here is gonna<br />be a floater, Camille.</p>
+      <p begin="330.375s" xml:id="p124" end="333.25s">You&#039;re gonna<br />share her with the deck,</p>
+      <p begin="333.25s" xml:id="p125" end="335.292s">but primarily working with you.</p>
+      <p begin="335.292s" xml:id="p126" end="336.959s">Interesting.<br />This is great.</p>
+      <p begin="336.959s" xml:id="p127" end="338.125s">It&#039;s a big boat.</p>
+      <p begin="338.125s" xml:id="p128" end="339.959s">Calf muscles are<br />gonna be burning.</p>
+      <p begin="339.959s" xml:id="p129" end="343.709s">It&#039;s 197 feet, 1,093 tons.</p>
+      <p begin="343.709s" xml:id="p130" end="346.292s">The state rooms are bigger,<br />the hallways are longer.</p>
+      <p begin="346.292s" xml:id="p131" end="350.584s">We&#039;ve got an extra deck,<br />that&#039;s another flight of stairs.</p>
+      <p begin="350.584s" xml:id="p132" end="352.584s">The deck stew,<br />she&#039;s just splitting up</p>
+      <p begin="352.584s" xml:id="p133" end="354.792s">her duties between deck<br />and interior.</p>
+      <p begin="354.792s" xml:id="p134" end="358.25s">Everybody else has got<br />one boss, she&#039;s got two.</p>
+      <p begin="358.25s" xml:id="p135" end="359.709s">We pick up tomorrow.</p>
+      <p begin="359.709s" xml:id="p136" end="361.167s">As usual, it&#039;s a sh-- show.</p>
+      <p begin="361.167s" xml:id="p137" end="362.459s">This is great!</p>
+      <p begin="362.459s" xml:id="p138" end="363.792s">It&#039;s gonna work out well,<br />I think.</p>
+      <p begin="363.792s" xml:id="p139" end="364.834s">This is really cool, okay.</p>
+      <p begin="364.834s" xml:id="p140" end="365.959s">I&#039;m gonna see you around, yeah?</p>
+      <p begin="365.959s" xml:id="p141" end="367.626s">-Yes, you will, sir.<br />-All right.</p>
+      <p begin="367.626s" xml:id="p142" end="368.876s">-Thank you so much, Fraser.<br />-Thanks for welcoming back.</p>
+      <p begin="368.876s" xml:id="p143" end="369.959s">Mm.</p>
+      <p begin="369.959s" xml:id="p144" end="375.709s">I don&#039;t know where to begin.</p>
+      <p begin="375.709s" xml:id="p145" end="379.167s">Oh, God.</p>
+      <p begin="379.167s" xml:id="p146" end="380.876s">Oh, God, look at that face.</p>
+      <p begin="380.876s" xml:id="p147" end="383.959s">Oh, jeez.</p>
+      <p begin="383.959s" xml:id="p148" end="385.375s">Hello, Rache.</p>
+      <p begin="385.375s" xml:id="p149" end="387.792s">-Permission to board.<br />-Granted.</p>
+      <p begin="387.792s" xml:id="p150" end="390.792s">I&#039;m so excited I get<br />to see my boat daddy again.</p>
+      <p begin="390.792s" xml:id="p151" end="392.167s">Boat Pop-Pop&#039;s there.</p>
+      <p begin="392.167s" xml:id="p152" end="394.751s">Please, Captain Lee,<br />don&#039;t sh-- on me.</p>
+      <p begin="394.751s" xml:id="p153" end="396.959s">I know you like to eat<br />a lot of ass.</p>
+      <p begin="396.959s" xml:id="p154" end="399.292s">I&#039;m gonna eat somebody&#039;s<br />ass for dinner.</p>
+      <p begin="399.292s" xml:id="p155" end="399.959s">Ooh!</p>
+      <p begin="399.959s" xml:id="p156" end="404.417s">And you are what you eat, but...</p>
+      <p begin="404.417s" xml:id="p157" end="406.292s">We got a brand-new boat, big.</p>
+      <p begin="406.292s" xml:id="p158" end="408.709s">-I saw it on the dock.<br />-We got room.</p>
+      <p begin="408.709s" xml:id="p159" end="410.709s">You are gonna have<br />your own cabin, my dear.</p>
+      <p begin="410.709s" xml:id="p160" end="411.959s">I love that.</p>
+      <p begin="411.959s" xml:id="p161" end="413.375s">You&#039;re gonna knock<br />their socks off.</p>
+      <p begin="413.375s" xml:id="p162" end="414.542s">I&#039;m ready to do it.</p>
+      <p begin="414.542s" xml:id="p163" end="416.083s">All right, sweetie.<br />You look great.</p>
+      <p begin="416.083s" xml:id="p164" end="418.792s">-Thank you, Captain.<br />-Spectacular.</p>
+      <p begin="418.792s" xml:id="p165" end="420.834s">-Hello!<br />-Hello?</p>
+      <p begin="420.834s" xml:id="p166" end="422.167s">-Ah!<br />-Ah!</p>
+      <p begin="422.167s" xml:id="p167" end="424.501s">How are you!</p>
+      <p begin="424.501s" xml:id="p168" end="426.459s">-Hi!<br />-You look gorgeous!</p>
+      <p begin="426.459s" xml:id="p169" end="427.959s">Yeah, so do you,<br />you look fantastic.</p>
+      <p begin="427.959s" xml:id="p170" end="429.083s">Look at you!</p>
+      <p begin="429.083s" xml:id="p171" end="430.501s">-Hello?<br />-You must be Ross.</p>
+      <p begin="430.501s" xml:id="p172" end="432.167s">I am Ross, it&#039;s a<br />pleasure to meet you.</p>
+      <p begin="432.167s" xml:id="p173" end="433.542s">This is your new home.</p>
+      <p begin="433.542s" xml:id="p174" end="434.501s">I love this, ooh.</p>
+      <p begin="434.501s" xml:id="p175" end="437.792s">This is great, the lighting<br />in here as well.</p>
+      <p begin="437.792s" xml:id="p176" end="438.792s">Pretty big, hey?</p>
+      <p begin="438.792s" xml:id="p177" end="440.167s">Just by the size of it,</p>
+      <p begin="440.167s" xml:id="p178" end="441.209s">it&#039;ll probably be<br />a good layout for me.</p>
+      <p begin="441.209s" xml:id="p179" end="442.417s">This boat is enormous.</p>
+      <p begin="442.417s" xml:id="p180" end="443.792s">You&#039;ve got your own cabin.</p>
+      <p begin="443.792s" xml:id="p181" end="445.167s">I saw that.</p>
+      <p begin="445.167s" xml:id="p182" end="447.751s">-Bitch!<br />-Thank you.</p>
+      <p begin="447.751s" xml:id="p183" end="449.167s">Ross, you&#039;ve been a busy guy.</p>
+      <p begin="449.167s" xml:id="p184" end="451.751s">Yeah, I&#039;ve worked on<br />about 26 yachts.</p>
+      <p begin="451.751s" xml:id="p185" end="453.209s">That works for me.</p>
+      <p begin="453.209s" xml:id="p186" end="456.959s">You are going to have<br />Katie as one of your deckhands,</p>
+      <p begin="456.959s" xml:id="p187" end="458.501s">and you have Mr. Willoughby.</p>
+      <p begin="458.501s" xml:id="p188" end="460.459s">-Sounds Australian.<br />-Yeah.</p>
+      <p begin="460.459s" xml:id="p189" end="462.792s">Tony. He&#039;s gonna be<br />your greenest deckhand.</p>
+      <p begin="462.792s" xml:id="p190" end="464.792s">This one is going<br />to double as a stew.</p>
+      <p begin="464.792s" xml:id="p191" end="466.125s">Okay.</p>
+      <p begin="466.125s" xml:id="p192" end="468.417s">I&#039;ve got 11 years<br />of experience on yachts.</p>
+      <p begin="468.417s" xml:id="p193" end="472.167s">For me, the hardest element<br />is social dynamics.</p>
+      <p begin="472.167s" xml:id="p194" end="474.167s">I do tend to keep<br />myself back a little bit,</p>
+      <p begin="474.167s" xml:id="p195" end="476.542s">reserve some kind of<br />tactical chess game.</p>
+      <p begin="476.542s" xml:id="p196" end="478.25s">I&#039;m not one to walk<br />on board, say,</p>
+      <p begin="478.25s" xml:id="p197" end="482.125s">&quot;Hello, I&#039;m Ross,<br />I like group sex.&quot;</p>
+      <p begin="482.125s" xml:id="p198" end="484.417s">-Guests coming on tomorrow.<br />-Extravagant.</p>
+      <p begin="484.417s" xml:id="p199" end="485.959s">-Welcome aboard, Ross.<br />-Thank you very much.</p>
+      <p begin="485.959s" xml:id="p200" end="487.125s">You&#039;re welcome, sir.</p>
+      <p begin="487.125s" xml:id="p201" end="488.959s">-All right.<br />-My own suite, ooh.</p>
+      <p begin="488.959s" xml:id="p202" end="491.334s">-Yeah!<br />-Whoa!</p>
+      <p begin="491.334s" xml:id="p203" end="492.959s">Hello, Fraser, nice to meet you.</p>
+      <p begin="492.959s" xml:id="p204" end="494.501s">-How you doing, Fraser?<br />-I&#039;m Ross. Nice to meet you.</p>
+      <p begin="494.501s" xml:id="p205" end="495.667s">Ross, how are you?<br />You&#039;re bosun, right?</p>
+      <p begin="495.667s" xml:id="p206" end="497.334s">I am, that&#039;s correct.</p>
+      <p begin="497.334s" xml:id="p207" end="499.751s">I&#039;m gonna give you the choice<br />of where you want to live.</p>
+      <p begin="499.751s" xml:id="p208" end="500.959s">Go for it.</p>
+      <p begin="500.959s" xml:id="p209" end="501.959s">And I do snore<br />like a train, but...</p>
+      <p begin="501.959s" xml:id="p210" end="505.501s">Brilliant.</p>
+      <p begin="505.501s" xml:id="p211" end="506.959s">So excited.</p>
+      <p begin="506.959s" xml:id="p212" end="508.834s">I have to pee again already.</p>
+      <p begin="508.834s" xml:id="p213" end="510.334s">Nervous pee-er.</p>
+      <p begin="510.334s" xml:id="p214" end="512.584s">-Hello!<br />-Hi, how are you?</p>
+      <p begin="512.584s" xml:id="p215" end="514.334s">I&#039;m Fraser, I&#039;m going<br />to be your chief.</p>
+      <p begin="514.334s" xml:id="p216" end="515.959s">Alissa, nice to meet you.</p>
+      <p begin="515.959s" xml:id="p217" end="518.542s">Nice to meet you!</p>
+      <p begin="518.542s" xml:id="p218" end="519.792s">Whoa, that&#039;s fancy.</p>
+      <p begin="519.792s" xml:id="p219" end="522.626s">How do I open it, bitch.</p>
+      <p begin="522.626s" xml:id="p220" end="523.959s">How long have you<br />been yachting for?</p>
+      <p begin="523.959s" xml:id="p221" end="525.375s">About a year and a half.</p>
+      <p begin="525.375s" xml:id="p222" end="526.375s">Okay.</p>
+      <p begin="526.375s" xml:id="p223" end="527.959s">I was a second stew,<br />so lots of housekeeping.</p>
+      <p begin="527.959s" xml:id="p224" end="529.167s">Okay, do you enjoy<br />making cocktails?</p>
+      <p begin="529.167s" xml:id="p225" end="530.501s">-I do, I do.<br />-Yeah.</p>
+      <p begin="530.501s" xml:id="p226" end="532.375s">And the guests enjoy me,<br />for some reason, so.</p>
+      <p begin="532.375s" xml:id="p227" end="534.542s">I can so see why.</p>
+      <p begin="534.542s" xml:id="p228" end="537.0s">My ultimate goal in yachting<br />is to make</p>
+      <p begin="537.0s" xml:id="p229" end="539.375s">as much ----ing money<br />as possible,</p>
+      <p begin="539.375s" xml:id="p230" end="543.0s">meet as many high-end<br />people as possible,</p>
+      <p begin="543.0s" xml:id="p231" end="546.542s">mooch off them,<br />and live their life.</p>
+      <p begin="546.542s" xml:id="p232" end="548.083s">-Get into a uniform.<br />-Cool.</p>
+      <p begin="548.083s" xml:id="p233" end="549.709s">All right, I&#039;ll see you soon.</p>
+      <p begin="549.709s" xml:id="p234" end="550.584s">She is lovely.</p>
+      <p begin="550.584s" xml:id="p235" end="559.0s">Oh, my God this is<br />actually happening.</p>
+      <p begin="559.0s" xml:id="p236" end="560.876s">Chef is in.</p>
+      <p begin="560.876s" xml:id="p237" end="562.834s">-I&#039;m Hayley, your stewardess.<br />-I&#039;m Fraser, nice to meet you.</p>
+      <p begin="562.834s" xml:id="p238" end="564.0s">Oh, lovely to meet you.</p>
+      <p begin="564.0s" xml:id="p239" end="565.459s">Lovely to meet you too,<br />welcome aboard.</p>
+      <p begin="565.459s" xml:id="p240" end="566.667s">Thank you.</p>
+      <p begin="566.667s" xml:id="p241" end="568.542s">I&#039;m gonna take you<br />to get into a uniform,</p>
+      <p begin="568.542s" xml:id="p242" end="571.042s">-and we&#039;ll go from there.<br />-Amazing, thank you.</p>
+      <p begin="571.042s" xml:id="p243" end="572.167s">It&#039;s absolutely gorgeous.</p>
+      <p begin="572.167s" xml:id="p244" end="573.584s">It&#039;s brilliant, isn&#039;t it?</p>
+      <p begin="573.584s" xml:id="p245" end="574.918s">The humidity does not<br />improve my hair, though.</p>
+      <p begin="574.918s" xml:id="p246" end="576.209s">It&#039;s a bit much.</p>
+      <p begin="576.209s" xml:id="p247" end="578.334s">The three things I like<br />most about myself...</p>
+      <p begin="578.334s" xml:id="p248" end="579.584s">it&#039;s quite obvious, isn&#039;t it...</p>
+      <p begin="579.584s" xml:id="p249" end="582.667s">ass, tits, hair...<br />ka-ching!</p>
+      <p begin="582.667s" xml:id="p250" end="584.584s">-Hi.<br />-Hey!</p>
+      <p begin="584.584s" xml:id="p251" end="586.125s">Hi, I&#039;m Hayley.</p>
+      <p begin="586.125s" xml:id="p252" end="587.751s">I love your hair!</p>
+      <p begin="587.751s" xml:id="p253" end="592.292s">I was gonna just say I love<br />how, like, big your hair is!</p>
+      <p begin="592.292s" xml:id="p254" end="596.626s">Wow.</p>
+      <p begin="596.626s" xml:id="p255" end="598.167s">-Hi.<br />-Hello.</p>
+      <p begin="598.167s" xml:id="p256" end="599.209s">I&#039;m Ben, nice to meet you.</p>
+      <p begin="599.209s" xml:id="p257" end="600.209s">-Katie.<br />-Katie?</p>
+      <p begin="600.209s" xml:id="p258" end="601.292s">Nice to meet you.</p>
+      <p begin="601.292s" xml:id="p259" end="602.292s">-Hey.<br />-Hello, how are you?</p>
+      <p begin="602.292s" xml:id="p260" end="603.792s">Good morning or afternoon,</p>
+      <p begin="603.792s" xml:id="p261" end="604.959s">I&#039;m not sure which one it<br />is at the moment.</p>
+      <p begin="604.959s" xml:id="p262" end="606.083s">-Yeah, right?<br />-Ben.</p>
+      <p begin="606.083s" xml:id="p263" end="607.083s">Ben, I&#039;m Ross, nice to meet you.</p>
+      <p begin="607.083s" xml:id="p264" end="608.501s">-Ross.<br />-Katie.</p>
+      <p begin="608.501s" xml:id="p265" end="609.792s">-Katie, lovely to meet you too.<br />-Nice to meet you.</p>
+      <p begin="609.792s" xml:id="p266" end="610.918s">-I&#039;m the bosun.<br />-Awesome.</p>
+      <p begin="610.918s" xml:id="p267" end="613.584s">Well, welcome aboard.</p>
+      <p begin="613.584s" xml:id="p268" end="616.709s">Okay, so I&#039;ve had a brief<br />look through your CVs.</p>
+      <p begin="616.709s" xml:id="p269" end="621.709s">Hayley, I&#039;d like to speak to you<br />and see what your experience is.</p>
+      <p begin="621.709s" xml:id="p270" end="622.751s">And is that what<br />you enjoy being?</p>
+      <p begin="622.751s" xml:id="p271" end="623.792s">-Yes.<br />-Right.</p>
+      <p begin="623.792s" xml:id="p272" end="625.083s">I actually love housekeeping.</p>
+      <p begin="625.083s" xml:id="p273" end="627.292s">-Boom! Boom!<br />-Yeah, I do love housekeeping.</p>
+      <p begin="627.292s" xml:id="p274" end="628.083s">Boom!</p>
+      <p begin="628.083s" xml:id="p275" end="629.417s">-Hi, welcome.<br />-Hi!</p>
+      <p begin="629.417s" xml:id="p276" end="630.709s">-I&#039;m Ross.<br />-Tony, nice to meet you.</p>
+      <p begin="630.709s" xml:id="p277" end="632.626s">So, this is the deck team,<br />I believe.</p>
+      <p begin="632.626s" xml:id="p278" end="634.292s">-Oh, wow.<br />-Awesome.</p>
+      <p begin="634.292s" xml:id="p279" end="637.25s">Let&#039;s go down to the cabins,<br />find your cabins, and settle in.</p>
+      <p begin="637.25s" xml:id="p280" end="639.209s">We actually have a deck stew.</p>
+      <p begin="639.209s" xml:id="p281" end="641.417s">Quite a large vessel here.</p>
+      <p begin="641.417s" xml:id="p282" end="644.501s">But my priority right now is<br />we&#039;ve got a charter tomorrow.</p>
+      <p begin="644.501s" xml:id="p283" end="646.459s">I&#039;m gonna send both<br />of you down to cabins.</p>
+      <p begin="646.459s" xml:id="p284" end="647.667s">Okay, yeah.</p>
+      <p begin="647.667s" xml:id="p285" end="648.876s">And we&#039;re just gonna<br />get them all done.</p>
+      <p begin="648.876s" xml:id="p286" end="650.042s">What have you got in here?</p>
+      <p begin="650.042s" xml:id="p287" end="651.709s">-There might be a body in there.<br />-Yeah.</p>
+      <p begin="651.709s" xml:id="p288" end="653.125s">Oh, my gosh.</p>
+      <p begin="653.125s" xml:id="p289" end="654.792s">-Hello, what&#039;s your name?<br />-Camille.</p>
+      <p begin="654.792s" xml:id="p290" end="656.292s">Camille, okay, and you&#039;re<br />the deck stew, is that right?</p>
+      <p begin="656.292s" xml:id="p291" end="657.709s">Hi, I am the deck stew.</p>
+      <p begin="657.709s" xml:id="p292" end="661.792s">-This is so exciting!<br />-This is so exciting!</p>
+      <p begin="661.792s" xml:id="p293" end="665.459s">Bigger than what I&#039;m used to.</p>
+      <p begin="665.459s" xml:id="p294" end="666.751s">Nice, bro.</p>
+      <p begin="666.751s" xml:id="p295" end="668.459s">So, this is our crew quarters.</p>
+      <p begin="668.459s" xml:id="p296" end="669.792s">-Ross, have you met Camille?<br />-Hello.</p>
+      <p begin="669.792s" xml:id="p297" end="671.417s">-I have not.<br />-Hi.</p>
+      <p begin="671.417s" xml:id="p298" end="674.709s">Ross, like the discount store.</p>
+      <p begin="674.709s" xml:id="p299" end="676.209s">-Can you help me with my bag?<br />-Yeah, sure.</p>
+      <p begin="676.209s" xml:id="p300" end="677.751s">-Are you the bosun?<br />-I am.</p>
+      <p begin="677.751s" xml:id="p301" end="679.375s">I&#039;m the deck stew, so<br />I&#039;m not exactly sure</p>
+      <p begin="679.375s" xml:id="p302" end="681.0s">where you guys<br />will be needing me.</p>
+      <p begin="681.0s" xml:id="p303" end="682.0s">-Camille?<br />-Camille.</p>
+      <p begin="682.0s" xml:id="p304" end="683.792s">Okay, perfect.</p>
+      <p begin="683.792s" xml:id="p305" end="690.959s">I&#039;m attracted to a few of<br />the girls on the boat.</p>
+      <p begin="690.959s" xml:id="p306" end="692.626s">-Thank you, Ross.<br />-Yeah, sure.</p>
+      <p begin="692.626s" xml:id="p307" end="693.626s">All right, I&#039;ll come back later.</p>
+      <p begin="693.626s" xml:id="p308" end="695.0s">Yeah.</p>
+      <p begin="695.0s" xml:id="p309" end="696.709s">I&#039;m gonna try and be<br />as good as I can,</p>
+      <p begin="696.709s" xml:id="p310" end="698.292s">but then I&#039;m also not very<br />good at that kind of thing.</p>
+      <p begin="698.292s" xml:id="p311" end="706.542s">All right, I&#039;m in trouble.<br />St. Lucia is the most beautiful<br />island in the Caribbean.</p>
+      <p begin="706.542s" xml:id="p312" end="709.417s">Can we just chat quickly<br />about Camille?</p>
+      <p begin="709.417s" xml:id="p313" end="710.167s">Yes.</p>
+      <p begin="710.167s" xml:id="p314" end="712.375s">So much stuff.</p>
+      <p begin="712.375s" xml:id="p315" end="713.667s">We&#039;re going to share<br />her a little bit.</p>
+      <p begin="713.667s" xml:id="p316" end="715.167s">Right.</p>
+      <p begin="715.167s" xml:id="p317" end="717.0s">Just because I&#039;m doing<br />interior and exterior,</p>
+      <p begin="717.0s" xml:id="p318" end="719.042s">like, I guess I get,<br />like, double.</p>
+      <p begin="719.042s" xml:id="p319" end="721.0s">So, I&#039;m going to just throw<br />her in</p>
+      <p begin="721.0s" xml:id="p320" end="722.709s">on the interior side of things,</p>
+      <p begin="722.709s" xml:id="p321" end="724.709s">and then whenever you need her,<br />she&#039;ll be all yours.</p>
+      <p begin="724.709s" xml:id="p322" end="727.334s">Yeah, yeah, for sure.</p>
+      <p begin="727.334s" xml:id="p323" end="731.959s">I do surf.</p>
+      <p begin="731.959s" xml:id="p324" end="734.959s">Oh, Dios, man, that<br />place is famous, bro.</p>
+      <p begin="734.959s" xml:id="p325" end="736.334s">-Where are you from?<br />-Ohio.</p>
+      <p begin="736.334s" xml:id="p326" end="737.834s">Okay, I was gonna say<br />I hear a little, like...</p>
+      <p begin="737.834s" xml:id="p327" end="739.167s">-Yes, yeah.<br />-Midwestern.</p>
+      <p begin="739.167s" xml:id="p328" end="741.083s">Yep, yep, but I live<br />in Ft. Lauderdale.</p>
+      <p begin="741.083s" xml:id="p329" end="742.042s">-Okay, nice.<br />-What about you?</p>
+      <p begin="742.042s" xml:id="p330" end="743.334s">The South.</p>
+      <p begin="743.334s" xml:id="p331" end="744.709s">There you go, the South,<br />that&#039;s awesome.</p>
+      <p begin="744.709s" xml:id="p332" end="746.209s">-Southern girl, you know.<br />-That&#039;s awesome.</p>
+      <p begin="746.209s" xml:id="p333" end="747.334s">I&#039;m from a small town<br />in Mississippi</p>
+      <p begin="747.334s" xml:id="p334" end="748.667s">that was too small for me,</p>
+      <p begin="748.667s" xml:id="p335" end="750.542s">and I was very ready<br />to get out of there.</p>
+      <p begin="750.542s" xml:id="p336" end="752.834s">Growing up, people<br />wouldn&#039;t invite me to the party</p>
+      <p begin="752.834s" xml:id="p337" end="755.751s">because I ended up being<br />the center of attention.</p>
+      <p begin="755.751s" xml:id="p338" end="756.876s">I&#039;m not trying to be.</p>
+      <p begin="756.876s" xml:id="p339" end="758.167s">I love to be a little extra,</p>
+      <p begin="758.167s" xml:id="p340" end="759.792s">it&#039;s so ----ing boring<br />to not be.</p>
+      <p begin="759.792s" xml:id="p341" end="763.459s">But does that sound egotistical?</p>
+      <p begin="763.459s" xml:id="p342" end="765.792s">You&#039;re going to be<br />with us most of the time,</p>
+      <p begin="765.792s" xml:id="p343" end="767.834s">but if you can just focus on<br />the master in its entirety...</p>
+      <p begin="767.834s" xml:id="p344" end="769.292s">That&#039;s the hot tub.</p>
+      <p begin="769.292s" xml:id="p345" end="771.292s">-Wait...<br />-I know, it&#039;s fantastic.</p>
+      <p begin="771.292s" xml:id="p346" end="772.542s">Anyone got experience<br />with anchorings?</p>
+      <p begin="772.542s" xml:id="p347" end="773.751s">-Big anchors, yeah.<br />-Yeah.</p>
+      <p begin="773.751s" xml:id="p348" end="775.167s">Yeah? Okay.</p>
+      <p begin="775.167s" xml:id="p349" end="776.959s">This is dangerous equipment.</p>
+      <p begin="776.959s" xml:id="p350" end="779.0s">The fernickety thing about<br />this is</p>
+      <p begin="779.0s" xml:id="p351" end="780.375s">that if you bring it up too far,</p>
+      <p begin="780.375s" xml:id="p352" end="783.876s">just the tiniest amount,<br />it gets stuck.</p>
+      <p begin="783.876s" xml:id="p353" end="786.417s">It&#039;s about four spins up<br />and four spins down.</p>
+      <p begin="786.417s" xml:id="p354" end="787.542s">Copy that.</p>
+      <p begin="787.542s" xml:id="p355" end="789.417s">How much docking<br />have you all done?</p>
+      <p begin="789.417s" xml:id="p356" end="790.751s">-I&#039;ve done a few, big...<br />-Yeah?</p>
+      <p begin="790.751s" xml:id="p357" end="792.375s">-Big boats.<br />-Nice.</p>
+      <p begin="792.375s" xml:id="p358" end="794.083s">I&#039;m just gonna do whatever<br />you need me to do, because...</p>
+      <p begin="794.083s" xml:id="p359" end="795.584s">All right, Tony.</p>
+      <p begin="795.584s" xml:id="p360" end="797.167s">I have a pair of hands ready<br />for anything, you know?</p>
+      <p begin="797.167s" xml:id="p361" end="799.083s">Yes, I appreciate that<br />and I love...</p>
+      <p begin="799.083s" xml:id="p362" end="801.292s">The smile&#039;s perfect.</p>
+      <p begin="801.292s" xml:id="p363" end="803.167s">Attention all crew,<br />I need everyone</p>
+      <p begin="803.167s" xml:id="p364" end="805.167s">in the sky lounge for<br />a staff meeting.</p>
+      <p begin="805.167s" xml:id="p365" end="806.167s">Copy that.</p>
+      <p begin="806.167s" xml:id="p366" end="807.834s">And would you bring me a coffee?</p>
+      <p begin="807.834s" xml:id="p367" end="809.375s">Copy that, Captain.</p>
+      <p begin="809.375s" xml:id="p368" end="812.0s">Well, I&#039;ve got no<br />----ing coffee pods.</p>
+      <p begin="812.0s" xml:id="p369" end="813.709s">How does this sh-- work?</p>
+      <p begin="813.709s" xml:id="p370" end="815.125s">-Hi!<br />-Hello.</p>
+      <p begin="815.125s" xml:id="p371" end="818.083s">Arr, what a motley-looking<br />bunch we got here.</p>
+      <p begin="818.083s" xml:id="p372" end="819.501s">We haven&#039;t got coffee or cream.</p>
+      <p begin="819.501s" xml:id="p373" end="821.083s">Thirty ----ing million<br />dollar yacht</p>
+      <p begin="821.083s" xml:id="p374" end="822.375s">and we don&#039;t have<br />coffee or cream?</p>
+      <p begin="822.375s" xml:id="p375" end="823.792s">Can you believe that,<br />and no coffee.</p>
+      <p begin="823.792s" xml:id="p376" end="826.292s">Okay, we might as well<br />get the party started.</p>
+      <p begin="826.292s" xml:id="p377" end="829.584s">I am your captain.<br />My name is Captain Lee.</p>
+      <p begin="829.584s" xml:id="p378" end="830.792s">I have two rules...</p>
+      <p begin="830.792s" xml:id="p379" end="835.042s">don&#039;t embarrass the boat, and<br />do not embarrass yourselves.</p>
+      <p begin="835.042s" xml:id="p380" end="836.542s">I&#039;ve got a pocket<br />full of plane tickets</p>
+      <p begin="836.542s" xml:id="p381" end="839.167s">that I have no<br />problem handing out.</p>
+      <p begin="839.167s" xml:id="p382" end="840.334s">Are we clear on that?</p>
+      <p begin="840.334s" xml:id="p383" end="841.792s">-Yes.<br />-Copy that.</p>
+      <p begin="841.792s" xml:id="p384" end="844.334s">Okay.</p>
+      <p begin="844.334s" xml:id="p385" end="845.709s">[sighs]</p>
+      <p begin="845.709s" xml:id="p386" end="847.334s">One other thing<br />I did wanna cover,</p>
+      <p begin="847.334s" xml:id="p387" end="850.209s">I am a little incapacitated.</p>
+      <p begin="850.209s" xml:id="p388" end="852.375s">I have a nerve issue<br />on my left side.</p>
+      <p begin="852.375s" xml:id="p389" end="856.209s">So, I am going to depend<br />on you guys in some areas.</p>
+      <p begin="856.209s" xml:id="p390" end="858.959s">I had back surgery<br />before I left.</p>
+      <p begin="858.959s" xml:id="p391" end="862.125s">The worst is behind me now,<br />and the doctors have assured me</p>
+      <p begin="862.125s" xml:id="p392" end="863.751s">that I&#039;m just gonna<br />continue to get better.</p>
+      <p begin="863.751s" xml:id="p393" end="866.375s">And I said, well,<br />I&#039;m going to work.</p>
+      <p begin="866.375s" xml:id="p394" end="868.667s">I wanna set records this season.</p>
+      <p begin="868.667s" xml:id="p395" end="872.083s">I want all the cash<br />we can possibly get.</p>
+      <p begin="872.083s" xml:id="p396" end="873.375s">We pick up tomorrow.</p>
+      <p begin="873.375s" xml:id="p397" end="874.876s">-Let&#039;s go to work.<br />-Woo!</p>
+      <p begin="874.876s" xml:id="p398" end="878.334s">-Thank you.<br />-Yeah.</p>
+      <p begin="878.334s" xml:id="p399" end="881.501s">I just don&#039;t even know what<br />to do with this right now.</p>
+      <p begin="881.501s" xml:id="p400" end="883.292s">What are those?</p>
+      <p begin="883.292s" xml:id="p401" end="886.042s">-Like, look...<br />-A massive penis.</p>
+      <p begin="886.042s" xml:id="p402" end="892.834s">What is this absolute<br />pile of sh--?</p>
+      <p begin="892.834s" xml:id="p403" end="894.25s">Ladies, I love that.<br />This looks fantastic.</p>
+      <p begin="894.25s" xml:id="p404" end="896.417s">Cool, thank you so much.</p>
+      <p begin="896.417s" xml:id="p405" end="898.959s">Alissa knows what she&#039;s doing,<br />and she&#039;s doing it very well.</p>
+      <p begin="898.959s" xml:id="p406" end="900.918s">Everything she&#039;s doing<br />is very polished</p>
+      <p begin="900.918s" xml:id="p407" end="902.292s">and very, very structured.</p>
+      <p begin="902.292s" xml:id="p408" end="904.876s">-Hayley, not so much.<br />-Okay, so like this?</p>
+      <p begin="904.876s" xml:id="p409" end="906.626s">-Exactly right, yeah.<br />-Oh!</p>
+      <p begin="906.626s" xml:id="p410" end="908.167s">Things seem to be a little<br />bit all over the place,</p>
+      <p begin="908.167s" xml:id="p411" end="910.709s">but she&#039;s very,<br />very enthusiastic.</p>
+      <p begin="910.709s" xml:id="p412" end="913.792s">I&#039;m happy with them both so<br />far, so, so far, so good...</p>
+      <p begin="913.792s" xml:id="p413" end="914.876s">knock on wood.</p>
+      <p begin="914.876s" xml:id="p414" end="916.167s">Where have I come from?</p>
+      <p begin="916.167s" xml:id="p415" end="922.167s">Hell, that&#039;s where<br />I&#039;ve come from.</p>
+      <p begin="922.167s" xml:id="p416" end="924.751s">All crew, all crew,<br />provisions are arriving.</p>
+      <p begin="924.751s" xml:id="p417" end="926.083s">Copy that.</p>
+      <p begin="926.083s" xml:id="p418" end="927.667s">They&#039;re bringing the food,<br />oh, gosh.</p>
+      <p begin="927.667s" xml:id="p419" end="929.417s">So, basically, we just<br />wanna get it all on.</p>
+      <p begin="929.417s" xml:id="p420" end="930.667s">Then we can start<br />organizing it, I think.</p>
+      <p begin="930.667s" xml:id="p421" end="934.667s">-Sure.<br />-Yeah, perfect.</p>
+      <p begin="934.667s" xml:id="p422" end="937.959s">Oh, my God,<br />it&#039;s so hot, isn&#039;t it?</p>
+      <p begin="937.959s" xml:id="p423" end="942.167s">This is a hot hell.</p>
+      <p begin="942.167s" xml:id="p424" end="944.667s">Oh, I&#039;m sweating<br />like an absolute swine.</p>
+      <p begin="944.667s" xml:id="p425" end="947.959s">Jesus Christ, this is<br />way ----ing down here.</p>
+      <p begin="947.959s" xml:id="p426" end="949.042s">How many more, Ross?</p>
+      <p begin="949.042s" xml:id="p427" end="950.25s">-That&#039;s it.<br />-Woo!</p>
+      <p begin="950.25s" xml:id="p428" end="953.417s">Oh, Jesus ----ing Christ.</p>
+      <p begin="953.417s" xml:id="p429" end="956.042s">All right, what<br />the [bleep] was I doing?</p>
+      <p begin="956.042s" xml:id="p430" end="957.626s">Oh, yeah.</p>
+      <p begin="957.626s" xml:id="p431" end="959.167s">This is a massive boat.</p>
+      <p begin="959.167s" xml:id="p432" end="960.959s">So, that means<br />she&#039;s a big bitch.</p>
+      <p begin="960.959s" xml:id="p433" end="963.542s">Sometimes, when you have<br />all these many decks on a boat,</p>
+      <p begin="963.542s" xml:id="p434" end="965.542s">it becomes harder,<br />just because</p>
+      <p begin="965.542s" xml:id="p435" end="967.209s">you&#039;re running through<br />so many levels.</p>
+      <p begin="967.209s" xml:id="p436" end="968.918s">[bleep] me running.</p>
+      <p begin="968.918s" xml:id="p437" end="971.375s">I have to go all the way down,<br />too, to my dry store</p>
+      <p begin="971.375s" xml:id="p438" end="973.375s">and my walk-in and<br />my freezer as well.</p>
+      <p begin="973.375s" xml:id="p439" end="975.542s">Cranky Rachel might kick<br />in in a second.</p>
+      <p begin="975.542s" xml:id="p440" end="978.209s">Oh, these stairs are<br />gonna definitely build</p>
+      <p begin="978.209s" xml:id="p441" end="982.167s">some good calves<br />and a nice, hard ass.</p>
+      <p begin="982.167s" xml:id="p442" end="983.792s">Oh [bleep] yes!</p>
+      <p begin="983.792s" xml:id="p443" end="984.876s">Yeah.</p>
+      <p begin="984.876s" xml:id="p444" end="987.959s">Bye, guys.</p>
+      <p begin="987.959s" xml:id="p445" end="989.542s">What is your favorite food?</p>
+      <p begin="989.542s" xml:id="p446" end="991.167s">Anything that&#039;s not healthy.</p>
+      <p begin="991.167s" xml:id="p447" end="992.626s">No matter what.</p>
+      <p begin="992.626s" xml:id="p448" end="993.959s">See, Miami-style,<br />we&#039;d work in our bikinis.</p>
+      <p begin="993.959s" xml:id="p449" end="995.501s">Oh.</p>
+      <p begin="995.501s" xml:id="p450" end="997.751s">So, Monday, Tuesday, I would<br />eat whatever I wanted,</p>
+      <p begin="997.751s" xml:id="p451" end="1002.959s">Wednesday, Thursday<br />I would drop all carbs</p>
+      <p begin="1002.959s" xml:id="p452" end="1005.25s">so I could be in a bikini,<br />pulling lines, fenders.</p>
+      <p begin="1005.25s" xml:id="p453" end="1006.709s">I grew up in Cincinnati, Ohio.</p>
+      <p begin="1006.709s" xml:id="p454" end="1009.792s">I lived back in the woods,<br />so we&#039;d go hiking.</p>
+      <p begin="1009.792s" xml:id="p455" end="1012.876s">I was the only one that kind<br />of ventured out, decided to,</p>
+      <p begin="1012.876s" xml:id="p456" end="1016.375s">you know, move to Florida, and<br />I fell into yachting right away.</p>
+      <p begin="1016.375s" xml:id="p457" end="1017.751s">I like to challenge myself.</p>
+      <p begin="1017.751s" xml:id="p458" end="1019.375s">I&#039;m gonna do everything<br />the boys can do.</p>
+      <p begin="1019.375s" xml:id="p459" end="1021.584s">Like a badass,<br />I ----ing love that.</p>
+      <p begin="1021.584s" xml:id="p460" end="1023.083s">The day charters got old for me.</p>
+      <p begin="1023.083s" xml:id="p461" end="1027.167s">That&#039;s why doing<br />this is so cool.</p>
+      <p begin="1027.167s" xml:id="p462" end="1028.709s">Fraser, Fraser, Lee.</p>
+      <p begin="1028.709s" xml:id="p463" end="1029.542s">Go ahead.</p>
+      <p begin="1029.542s" xml:id="p464" end="1031.667s">Can you grab Rachel<br />and the bosun</p>
+      <p begin="1031.667s" xml:id="p465" end="1033.375s">and meet me in the<br />crew mess</p>
+      <p begin="1033.375s" xml:id="p466" end="1035.0s">for our preference<br />sheet meeting, please?</p>
+      <p begin="1035.0s" xml:id="p467" end="1036.626s">Copy that.</p>
+      <p begin="1036.626s" xml:id="p468" end="1039.709s">Yikesies.</p>
+      <p begin="1039.709s" xml:id="p469" end="1042.0s">Why is this not organized?</p>
+      <p begin="1042.0s" xml:id="p470" end="1043.709s">How you doing, Fraser?</p>
+      <p begin="1043.709s" xml:id="p471" end="1046.542s">I&#039;m exhausted, but well.</p>
+      <p begin="1046.542s" xml:id="p472" end="1048.0s">Good, we&#039;re just<br />getting started.</p>
+      <p begin="1048.0s" xml:id="p473" end="1049.0s">Yeah, well.</p>
+      <p begin="1049.0s" xml:id="p474" end="1051.709s">First one of the season.</p>
+      <p begin="1051.709s" xml:id="p475" end="1052.375s">Thank you.</p>
+      <p begin="1052.375s" xml:id="p476" end="1055.459s">Our charter guest is Peng Lim.</p>
+      <p begin="1055.459s" xml:id="p477" end="1057.876s">He&#039;s an in-demand<br />tax professional.</p>
+      <p begin="1057.876s" xml:id="p478" end="1060.834s">Peng is gonna be joined by his<br />best friends for his birthday.</p>
+      <p begin="1060.834s" xml:id="p479" end="1063.334s">Peng&#039; friends are planning<br />on some birthday surprises,</p>
+      <p begin="1063.334s" xml:id="p480" end="1065.501s">including an all-day<br />celebration</p>
+      <p begin="1065.501s" xml:id="p481" end="1068.125s">with images of Peng&#039;s<br />face decorating anything.</p>
+      <p begin="1068.125s" xml:id="p482" end="1069.834s">What if it floats<br />in the day head?</p>
+      <p begin="1069.834s" xml:id="p483" end="1072.417s">[laughing]</p>
+      <p begin="1072.417s" xml:id="p484" end="1074.709s">First evening, they<br />want a rave-style party.</p>
+      <p begin="1074.709s" xml:id="p485" end="1076.584s">They would like to continue<br />the festivities</p>
+      <p begin="1076.584s" xml:id="p486" end="1079.709s">with a Zen day on the beach,<br />and in the evening,</p>
+      <p begin="1079.709s" xml:id="p487" end="1082.709s">Playboy mansion theme party<br />with an exotic dancer.</p>
+      <p begin="1082.709s" xml:id="p488" end="1084.334s">Young, sexy male.</p>
+      <p begin="1084.334s" xml:id="p489" end="1085.751s">Oh, interesting twist there.</p>
+      <p begin="1085.751s" xml:id="p490" end="1087.792s">Did you not pick it up going<br />through these?</p>
+      <p begin="1087.792s" xml:id="p491" end="1090.417s">No, no.</p>
+      <p begin="1090.417s" xml:id="p492" end="1094.334s">Oh, I thought he was connected<br />quite closely to Madame Breasts.</p>
+      <p begin="1094.334s" xml:id="p493" end="1096.542s">Somehow, I think not.</p>
+      <p begin="1096.542s" xml:id="p494" end="1098.667s">As an added bonus,<br />primary&#039;s friends would love</p>
+      <p begin="1098.667s" xml:id="p495" end="1100.626s">to surprise him by<br />having someone jump out</p>
+      <p begin="1100.626s" xml:id="p496" end="1102.584s">of a large-scale<br />birthday cake.</p>
+      <p begin="1102.584s" xml:id="p497" end="1105.959s">Well, we know we&#039;re<br />leaving my old ass out of that.</p>
+      <p begin="1105.959s" xml:id="p498" end="1109.167s">Carry on, folks.<br />Thank you.</p>
+      <p begin="1109.167s" xml:id="p499" end="1110.751s">We&#039;ve got so much to do.</p>
+      <p begin="1110.751s" xml:id="p500" end="1112.584s">We&#039;ve gone mad.</p>
+      <p begin="1112.584s" xml:id="p501" end="1114.334s">What&#039;s your sign?</p>
+      <p begin="1114.334s" xml:id="p502" end="1116.792s">I&#039;m a Pisces, so I&#039;m just<br />basically an emotional mess.</p>
+      <p begin="1116.792s" xml:id="p503" end="1118.375s">My boyfriend&#039;s a Gemini,</p>
+      <p begin="1118.375s" xml:id="p504" end="1120.959s">and we&#039;re the most<br />uncompatible signs.</p>
+      <p begin="1120.959s" xml:id="p505" end="1122.375s">You know what my mom told me?</p>
+      <p begin="1122.375s" xml:id="p506" end="1124.626s">She said, &quot;Love never<br />lasts at the beach.&quot;</p>
+      <p begin="1124.626s" xml:id="p507" end="1125.501s">I think that&#039;s so true.</p>
+      <p begin="1125.501s" xml:id="p508" end="1129.334s">I&#039;m definitely attracted<br />to the bad boys.</p>
+      <p begin="1129.334s" xml:id="p509" end="1133.209s">I dated a college SEC football<br />player, a quarterback.</p>
+      <p begin="1133.209s" xml:id="p510" end="1135.709s">Football in the South,<br />it&#039;s no ----ing joke.</p>
+      <p begin="1135.709s" xml:id="p511" end="1137.918s">Like, grown men are,<br />like, mega-fans of,</p>
+      <p begin="1137.918s" xml:id="p512" end="1139.709s">like, 17-year-old boys.</p>
+      <p begin="1139.709s" xml:id="p513" end="1142.0s">It&#039;s, like, so ----ing weird,<br />I just don&#039;t understand it.</p>
+      <p begin="1142.0s" xml:id="p514" end="1143.209s">Wait, so what does that mean?</p>
+      <p begin="1143.209s" xml:id="p515" end="1144.584s">So, love never lasts<br />at the beach</p>
+      <p begin="1144.584s" xml:id="p516" end="1146.542s">because people are tan,<br />they&#039;re hot.</p>
+      <p begin="1146.542s" xml:id="p517" end="1148.459s">To be fair,<br />I do live by a beach,</p>
+      <p begin="1148.459s" xml:id="p518" end="1149.792s">so that does completely...</p>
+      <p begin="1149.792s" xml:id="p519" end="1152.792s">you just described me,<br />didn&#039;t you?</p>
+      <p begin="1152.792s" xml:id="p520" end="1153.959s">Okay.</p>
+      <p begin="1153.959s" xml:id="p521" end="1156.375s">Should we get up at 6:30?</p>
+      <p begin="1156.375s" xml:id="p522" end="1157.959s">All right, thanks for<br />an awesome first day.</p>
+      <p begin="1157.959s" xml:id="p523" end="1159.542s">-Yeah.<br />-Thanks, man.</p>
+      <p begin="1159.542s" xml:id="p524" end="1161.167s">How long did you say you&#039;ve<br />been in yachting for?</p>
+      <p begin="1161.167s" xml:id="p525" end="1163.292s">Four years, on and off.</p>
+      <p begin="1163.292s" xml:id="p526" end="1164.584s">Done a lot of waitressing,</p>
+      <p begin="1164.584s" xml:id="p527" end="1165.834s">I was always doing<br />front-of-house jobs.</p>
+      <p begin="1165.834s" xml:id="p528" end="1166.792s">Nice.</p>
+      <p begin="1166.792s" xml:id="p529" end="1169.876s">I did...</p>
+      <p begin="1169.876s" xml:id="p530" end="1171.0s">And I did that for three years.</p>
+      <p begin="1171.0s" xml:id="p531" end="1172.042s">-I saw that.<br />-Did you see that?</p>
+      <p begin="1172.042s" xml:id="p532" end="1173.542s">-That is great.<br />-Mm-hmm.</p>
+      <p begin="1173.542s" xml:id="p533" end="1176.584s">I was always in and<br />out of the yacht industry.</p>
+      <p begin="1176.584s" xml:id="p534" end="1179.751s">It&#039;s like an ex-lover<br />that you used to spend</p>
+      <p begin="1179.751s" xml:id="p535" end="1182.959s">a lot of time with, and<br />you really liked the sex.</p>
+      <p begin="1182.959s" xml:id="p536" end="1185.375s">Didn&#039;t really wanna commit,<br />but occasionally,</p>
+      <p begin="1185.375s" xml:id="p537" end="1187.626s">you just wanna dip<br />back in there a little bit.</p>
+      <p begin="1187.626s" xml:id="p538" end="1191.959s">I&#039;ve got my own business at<br />the moment, doing aesthetics.</p>
+      <p begin="1191.959s" xml:id="p539" end="1193.584s">So, I do Botox and fillers.</p>
+      <p begin="1193.584s" xml:id="p540" end="1196.083s">So, freshly done five days ago,<br />so I imagine it&#039;s still...</p>
+      <p begin="1196.083s" xml:id="p541" end="1197.584s">Where&#039;d you get it?</p>
+      <p begin="1197.584s" xml:id="p542" end="1198.959s">You&#039;re can only do it<br />from here up, can&#039;t you?</p>
+      <p begin="1198.959s" xml:id="p543" end="1200.292s">Oh, my God!</p>
+      <p begin="1200.292s" xml:id="p544" end="1202.501s">People are doing<br />that to their grundels.</p>
+      <p begin="1202.501s" xml:id="p545" end="1204.501s">Smooth balls?</p>
+      <p begin="1204.501s" xml:id="p546" end="1206.167s">So, it relaxes their balls?</p>
+      <p begin="1206.167s" xml:id="p547" end="1207.334s">I don&#039;t know,<br />I&#039;ve never seen it.</p>
+      <p begin="1207.334s" xml:id="p548" end="1208.626s">This is quite intense.</p>
+      <p begin="1208.626s" xml:id="p549" end="1209.959s">I don&#039;t know,<br />but I&#039;ve heard about it.</p>
+      <p begin="1209.959s" xml:id="p550" end="1211.334s">Botox?</p>
+      <p begin="1211.334s" xml:id="p551" end="1212.876s">Yes, did you bring some<br />with you, by the way?</p>
+      <p begin="1212.876s" xml:id="p552" end="1215.959s">-No.<br />-For [bleep]&#039;s sake.</p>
+      <p begin="1215.959s" xml:id="p553" end="1217.375s">Spectacular.</p>
+      <p begin="1217.375s" xml:id="p554" end="1218.959s">All right, darling,<br />I&#039;ll see you around.</p>
+      <p begin="1218.959s" xml:id="p555" end="1220.083s">We&#039;ll start in the morning.</p>
+      <p begin="1220.083s" xml:id="p556" end="1221.334s">Good night.</p>
+      <p begin="1221.334s" xml:id="p557" end="1222.459s">Ow.</p>
+      <p begin="1222.459s" xml:id="p558" end="1224.375s">Oh, a shower sounds pretty<br />good right now, actually.</p>
+      <p begin="1224.375s" xml:id="p559" end="1231.0s">Let&#039;s be on deck<br />between 6:30 and 7:00.</p>
+      <p begin="1231.0s" xml:id="p560" end="1234.459s">I mean, really?</p>
+      <p begin="1234.459s" xml:id="p561" end="1236.334s">I&#039;ll do this, if<br />it takes me all night.</p>
+      <p begin="1236.334s" xml:id="p562" end="1238.417s">For [bleep]&#039;s sake, girls.</p>
+      <p begin="1238.417s" xml:id="p563" end="1240.042s">This is ghastly.</p>
+      <p begin="1240.042s" xml:id="p564" end="1242.626s">I&#039;m feeling the stress.</p>
+      <p begin="1242.626s" xml:id="p565" end="1244.125s">I need to give<br />my absolute all to this.</p>
+      <p begin="1244.125s" xml:id="p566" end="1245.292s">This is everything.</p>
+      <p begin="1245.292s" xml:id="p567" end="1247.667s">I grew up being<br />hideously bullied,</p>
+      <p begin="1247.667s" xml:id="p568" end="1250.626s">and so there is this<br />looming voice</p>
+      <p begin="1250.626s" xml:id="p569" end="1252.25s">that&#039;s always<br />in the back of my head</p>
+      <p begin="1252.25s" xml:id="p570" end="1254.25s">telling me I&#039;m not<br />quite good enough.</p>
+      <p begin="1254.25s" xml:id="p571" end="1256.125s">It&#039;s never-ending!</p>
+      <p begin="1256.125s" xml:id="p572" end="1258.167s">Oh, God, this is foul.</p>
+      <p begin="1258.167s" xml:id="p573" end="1260.751s">The boat&#039;s huge, and<br />I really didn&#039;t know</p>
+      <p begin="1260.751s" xml:id="p574" end="1262.25s">what I was facing, and</p>
+      <p begin="1262.25s" xml:id="p575" end="1264.25s">it&#039;s far worse than<br />I thought it would ever be.</p>
+      <p begin="1264.25s" xml:id="p576" end="1265.584s">So, yeah, I&#039;m freaking out.</p>
+      <p begin="1265.584s" xml:id="p577" end="1270.125s">I am crumbling under<br />pressure here.</p>
+      <p begin="1270.125s" xml:id="p578" end="1271.501s">Coming up...</p>
+      <p begin="1271.501s" xml:id="p579" end="1273.584s">For anyone who wants<br />to use the bathroom...</p>
+      <p begin="1273.584s" xml:id="p580" end="1274.959s">Is there soap?</p>
+      <p begin="1274.959s" xml:id="p581" end="1276.626s">Yeah, there will be.</p>
+      <p begin="1276.626s" xml:id="p582" end="1279.667s">Guests have been on board for<br />10 minutes, and we ----ed up.</p>
+      <p begin="1279.667s" xml:id="p583" end="1289.584s">By the way, these urine<br />stains are not mine.<br />Can we just chat quickly<br />about Camille?</p>
+      <p begin="1289.584s" xml:id="p584" end="1293.584s">[alarm sounds]</p>
+      <p begin="1293.584s" xml:id="p585" end="1295.083s">As soon as I wake up,<br />I&#039;m like,</p>
+      <p begin="1295.083s" xml:id="p586" end="1296.542s">let&#039;s ----ing go!</p>
+      <p begin="1296.542s" xml:id="p587" end="1297.792s">Right, that&#039;s because<br />you&#039;re, like,</p>
+      <p begin="1297.792s" xml:id="p588" end="1301.167s">seven years younger than me.</p>
+      <p begin="1301.167s" xml:id="p589" end="1302.959s">So, we&#039;ve got two<br />hose connection points.</p>
+      <p begin="1302.959s" xml:id="p590" end="1305.626s">We&#039;ve got one here, and there&#039;s<br />one back starboard aft there,</p>
+      <p begin="1305.626s" xml:id="p591" end="1307.167s">-and when you...<br />-So, just water everything?</p>
+      <p begin="1307.167s" xml:id="p592" end="1309.501s">Yeah, what I would do<br />is start from the front.</p>
+      <p begin="1309.501s" xml:id="p593" end="1319.417s">Yeah.</p>
+      <p begin="1319.417s" xml:id="p594" end="1321.375s">All right, so it&#039;s gonna be only<br />this, and what about the teak?</p>
+      <p begin="1321.375s" xml:id="p595" end="1333.125s">No, not with the teak.</p>
+      <p begin="1333.125s" xml:id="p596" end="1335.542s">Just go until<br />people start dying.</p>
+      <p begin="1335.542s" xml:id="p597" end="1336.834s">Cool.</p>
+      <p begin="1336.834s" xml:id="p598" end="1338.501s">-Fras.<br />-Hey.</p>
+      <p begin="1338.501s" xml:id="p599" end="1339.876s">Have you come across a fruit<br />bowl that you&#039;d like to use?</p>
+      <p begin="1339.876s" xml:id="p600" end="1341.501s">-Sure.<br />-And &#039;cuter boards.</p>
+      <p begin="1341.501s" xml:id="p601" end="1343.959s">&quot;Cooter boards.&quot;<br />Charcuterie?</p>
+      <p begin="1343.959s" xml:id="p602" end="1346.375s">Yes, a mélange of my meats,</p>
+      <p begin="1346.375s" xml:id="p603" end="1348.501s">thinly sliced,<br />laid on a platter.</p>
+      <p begin="1348.501s" xml:id="p604" end="1350.375s">As much as I love<br />talking about your cooter,</p>
+      <p begin="1350.375s" xml:id="p605" end="1351.667s">let&#039;s end that there.</p>
+      <p begin="1351.667s" xml:id="p606" end="1354.417s">All righty.</p>
+      <p begin="1354.417s" xml:id="p607" end="1359.959s">Yeah, [bleep].</p>
+      <p begin="1359.959s" xml:id="p608" end="1361.417s">-Okay.<br />-Yeah.</p>
+      <p begin="1361.417s" xml:id="p609" end="1363.876s">Interior, interior,<br />would I be able to grab you</p>
+      <p begin="1363.876s" xml:id="p610" end="1368.667s">in the sky lounge, please?</p>
+      <p begin="1368.667s" xml:id="p611" end="1370.292s">Yes, of course.</p>
+      <p begin="1370.292s" xml:id="p612" end="1371.751s">What I&#039;d do now is I&#039;d probably<br />try and get a chamois,</p>
+      <p begin="1371.751s" xml:id="p613" end="1374.751s">some K2R, and a bit of...<br />Yeah, on each deck.</p>
+      <p begin="1374.751s" xml:id="p614" end="1375.751s">-Copy.<br />-Okay.</p>
+      <p begin="1375.751s" xml:id="p615" end="1376.918s">We can do that.</p>
+      <p begin="1376.918s" xml:id="p616" end="1378.167s">Take a seat, ladies.</p>
+      <p begin="1378.167s" xml:id="p617" end="1379.334s">I&#039;m going to go through<br />a couple things.</p>
+      <p begin="1379.334s" xml:id="p618" end="1381.542s">Got your responsibility<br />list here,</p>
+      <p begin="1381.542s" xml:id="p619" end="1383.083s">and if something&#039;s<br />not been done,</p>
+      <p begin="1383.083s" xml:id="p620" end="1385.918s">I will know who&#039;s<br />responsible for it.</p>
+      <p begin="1385.918s" xml:id="p621" end="1388.751s">Last night,<br />I was having a mental breakdown</p>
+      <p begin="1388.751s" xml:id="p622" end="1391.751s">and I realized<br />I can&#039;t do everything.</p>
+      <p begin="1391.751s" xml:id="p623" end="1393.334s">So, I need to learn how<br />to delegate.</p>
+      <p begin="1393.334s" xml:id="p624" end="1396.125s">Here is my bible.</p>
+      <p begin="1396.125s" xml:id="p625" end="1397.626s">Get reading.</p>
+      <p begin="1397.626s" xml:id="p626" end="1400.667s">I don&#039;t know any of<br />you more than a few hours,</p>
+      <p begin="1400.667s" xml:id="p627" end="1403.375s">but I&#039;m gonna go off<br />of experience.</p>
+      <p begin="1403.375s" xml:id="p628" end="1405.876s">Alissa, I&#039;m thinking of<br />making you my second.</p>
+      <p begin="1405.876s" xml:id="p629" end="1407.501s">Okay.</p>
+      <p begin="1407.501s" xml:id="p630" end="1411.0s">So, I need you to be in charge<br />of helping the girls out.</p>
+      <p begin="1411.0s" xml:id="p631" end="1412.167s">Cool.</p>
+      <p begin="1412.167s" xml:id="p632" end="1414.751s">I am going to absolutely<br />smash it.</p>
+      <p begin="1414.751s" xml:id="p633" end="1417.501s">I just wanna focus on<br />my triangle of importance...</p>
+      <p begin="1417.501s" xml:id="p634" end="1421.375s">Captain Lee, Fraser,<br />whoever&#039;s paying me.</p>
+      <p begin="1421.375s" xml:id="p635" end="1424.918s">The people not in the triangle,<br />do your work, please.</p>
+      <p begin="1424.918s" xml:id="p636" end="1426.083s">Yay!</p>
+      <p begin="1426.083s" xml:id="p637" end="1427.584s">Thanks, guys.</p>
+      <p begin="1427.584s" xml:id="p638" end="1430.375s">Your priorities today are to<br />get laundry in a place.</p>
+      <p begin="1430.375s" xml:id="p639" end="1431.709s">Do you want me to<br />do the day head?</p>
+      <p begin="1431.709s" xml:id="p640" end="1433.167s">-Please.<br />-I&#039;m looking forward to it.</p>
+      <p begin="1433.167s" xml:id="p641" end="1435.0s">-Fraser, Fraser, Ross.<br />-Go ahead.</p>
+      <p begin="1435.0s" xml:id="p642" end="1436.209s">Is it okay if we have<br />Camille now,</p>
+      <p begin="1436.209s" xml:id="p643" end="1437.667s">so we can talk about<br />some docking?</p>
+      <p begin="1437.667s" xml:id="p644" end="1439.876s">Yeah, Camille, head back<br />down when you&#039;re ready.</p>
+      <p begin="1439.876s" xml:id="p645" end="1441.042s">Copy.</p>
+      <p begin="1441.042s" xml:id="p646" end="1442.751s">Do you keep your<br />warm water somewhere?</p>
+      <p begin="1442.751s" xml:id="p647" end="1445.167s">I just pop them there, or<br />I just put them on my tits.</p>
+      <p begin="1445.167s" xml:id="p648" end="1447.25s">What if you just like,<br />opened it up and...</p>
+      <p begin="1447.25s" xml:id="p649" end="1449.751s">-Welcome.<br />-Hi, everybody.</p>
+      <p begin="1449.751s" xml:id="p650" end="1451.042s">Nice.</p>
+      <p begin="1451.042s" xml:id="p651" end="1452.167s">Thank you.</p>
+      <p begin="1452.167s" xml:id="p652" end="1454.459s">You don&#039;t ever say that to me.</p>
+      <p begin="1454.459s" xml:id="p653" end="1456.626s">Right, I&#039;ve drawn<br />a picture of the boat.</p>
+      <p begin="1456.626s" xml:id="p654" end="1459.25s">I&#039;m gonna have Ben doing<br />these three lines.</p>
+      <p begin="1459.25s" xml:id="p655" end="1461.083s">-Okay.<br />-Katie here.</p>
+      <p begin="1461.083s" xml:id="p656" end="1462.584s">Perfect.</p>
+      <p begin="1462.584s" xml:id="p657" end="1463.792s">Tony, you might be going round<br />in circles just a here.</p>
+      <p begin="1463.792s" xml:id="p658" end="1466.083s">Camille, along the middle here,</p>
+      <p begin="1466.083s" xml:id="p659" end="1468.501s">in case Katie needs<br />a hand over here.</p>
+      <p begin="1468.501s" xml:id="p660" end="1469.584s">Okay.</p>
+      <p begin="1469.584s" xml:id="p661" end="1471.792s">I worked as a deck stew before,<br />but on a small boat.</p>
+      <p begin="1471.792s" xml:id="p662" end="1476.042s">But if I had to be one,<br />I would be on the deck.</p>
+      <p begin="1476.042s" xml:id="p663" end="1478.125s">I like being outside<br />with the boys.</p>
+      <p begin="1478.125s" xml:id="p664" end="1480.667s">It&#039;s a vibe,<br />put the sunglasses on</p>
+      <p begin="1480.667s" xml:id="p665" end="1484.334s">----ing drink a Coca-Cola,<br />yeah.</p>
+      <p begin="1484.334s" xml:id="p666" end="1487.542s">-All right.<br />-A lot of info.</p>
+      <p begin="1487.542s" xml:id="p667" end="1491.959s">Come on, do it for Mommy,<br />you know you ----ing like it.</p>
+      <p begin="1491.959s" xml:id="p668" end="1494.167s">Suck my...</p>
+      <p begin="1494.167s" xml:id="p669" end="1495.25s">[coughing]</p>
+      <p begin="1495.25s" xml:id="p670" end="1496.417s">[bleep] suckers.</p>
+      <p begin="1496.417s" xml:id="p671" end="1506.667s">Have a ----ing party.</p>
+      <p begin="1506.667s" xml:id="p672" end="1508.834s">I have no idea,<br />that&#039;s why I&#039;m asking you.</p>
+      <p begin="1508.834s" xml:id="p673" end="1510.542s">Yeah, gimme one minute.</p>
+      <p begin="1510.542s" xml:id="p674" end="1512.834s">This girl has got me<br />----ing running around</p>
+      <p begin="1512.834s" xml:id="p675" end="1515.25s">doing sh-- for her.</p>
+      <p begin="1515.25s" xml:id="p676" end="1517.125s">Grab a chamois and<br />just make things nice.</p>
+      <p begin="1517.125s" xml:id="p677" end="1518.626s">We&#039;ll tighten up<br />this line again.</p>
+      <p begin="1518.626s" xml:id="p678" end="1523.083s">Yep.</p>
+      <p begin="1523.083s" xml:id="p679" end="1524.375s">Brilliant.</p>
+      <p begin="1524.375s" xml:id="p680" end="1525.375s">Okay, can you handle<br />the napkin thing,</p>
+      <p begin="1525.375s" xml:id="p681" end="1526.959s">or do you want me to do it?</p>
+      <p begin="1526.959s" xml:id="p682" end="1528.626s">Because I just want it done,<br />like, as soon as possible.</p>
+      <p begin="1528.626s" xml:id="p683" end="1530.334s">Dude, I don&#039;t know<br />where the napkins are.</p>
+      <p begin="1530.334s" xml:id="p684" end="1531.334s">That&#039;s what I&#039;m saying,<br />are you gonna ask Fraser</p>
+      <p begin="1531.334s" xml:id="p685" end="1532.375s">or do you want me to?</p>
+      <p begin="1532.375s" xml:id="p686" end="1534.0s">-You can ask him.<br />-Okay.</p>
+      <p begin="1534.0s" xml:id="p687" end="1537.584s">Camille&#039;s giving me a little<br />bit of a, like, attitude.</p>
+      <p begin="1537.584s" xml:id="p688" end="1539.334s">Fraser, Alissa.</p>
+      <p begin="1539.334s" xml:id="p689" end="1540.667s">Have you seen any napkins?</p>
+      <p begin="1540.667s" xml:id="p690" end="1543.125s">Lower stew pantry,<br />the galley pantry.</p>
+      <p begin="1543.125s" xml:id="p691" end="1544.834s">I would have never<br />suspected that.</p>
+      <p begin="1544.834s" xml:id="p692" end="1547.209s">That&#039;s why you can just ask him.</p>
+      <p begin="1547.209s" xml:id="p693" end="1554.959s">It&#039;s just annoying, but we&#039;ll<br />see how that progresses.</p>
+      <p begin="1554.959s" xml:id="p694" end="1556.417s">You can&#039;t find napkins?</p>
+      <p begin="1556.417s" xml:id="p695" end="1558.375s">Alissa, I&#039;ve got<br />cocktail napkins.</p>
+      <p begin="1558.375s" xml:id="p696" end="1559.834s">All the towels are washed<br />and ready to go, right?</p>
+      <p begin="1559.834s" xml:id="p697" end="1561.417s">They are ready to go.</p>
+      <p begin="1561.417s" xml:id="p698" end="1564.792s">Attention all crew, we have<br />one hour till guest arrival.</p>
+      <p begin="1564.792s" xml:id="p699" end="1567.792s">No, no, no.</p>
+      <p begin="1567.792s" xml:id="p700" end="1569.918s">Literally need you to spray<br />and just go like this.</p>
+      <p begin="1569.918s" xml:id="p701" end="1571.918s">-Yes.<br />-Hayley, hand towels...</p>
+      <p begin="1571.918s" xml:id="p702" end="1574.918s">-roll them up nicely.<br />-Okay.</p>
+      <p begin="1574.918s" xml:id="p703" end="1577.042s">Right, so let&#039;s just<br />have a little final look.</p>
+      <p begin="1577.042s" xml:id="p704" end="1578.792s">-We looking ready?<br />-Yeah, looks good.</p>
+      <p begin="1578.792s" xml:id="p705" end="1582.042s">-Everything&#039;s looking pretty.<br />-Yeah, that&#039;s pretty good.</p>
+      <p begin="1582.042s" xml:id="p706" end="1584.042s">Can we think about<br />getting into our whites?</p>
+      <p begin="1584.042s" xml:id="p707" end="1588.209s">-Okay.<br />-That&#039;s what I like to see!</p>
+      <p begin="1588.209s" xml:id="p708" end="1593.083s">Let&#039;s go and shower<br />and get changed up.</p>
+      <p begin="1593.083s" xml:id="p709" end="1595.667s">Ooh, I look fancy in this.</p>
+      <p begin="1595.667s" xml:id="p710" end="1596.751s">Shiny bitch.</p>
+      <p begin="1596.751s" xml:id="p711" end="1598.209s">Maybe you could deal<br />with whatever&#039;s on the edge</p>
+      <p begin="1598.209s" xml:id="p712" end="1599.667s">of that bar there, Tony.</p>
+      <p begin="1599.667s" xml:id="p713" end="1601.334s">Attention all crew,<br />attention all crew.</p>
+      <p begin="1601.334s" xml:id="p714" end="1610.918s">I need everybody on the aft deck<br />in their whites in five.</p>
+      <p begin="1610.918s" xml:id="p715" end="1614.417s">♪ Going on a boat</p>
+      <p begin="1614.417s" xml:id="p716" end="1615.584s">-I have to pee again.<br />-I do, too.</p>
+      <p begin="1615.584s" xml:id="p717" end="1617.292s">-You got it?<br />-Yeah, yep.</p>
+      <p begin="1617.292s" xml:id="p718" end="1620.334s">Interior, let&#039;s just knock<br />this out of the park.</p>
+      <p begin="1620.334s" xml:id="p719" end="1622.125s">That&#039;ll work,<br />for the time we had.</p>
+      <p begin="1622.125s" xml:id="p720" end="1623.626s">Let&#039;s go.</p>
+      <p begin="1623.626s" xml:id="p721" end="1624.834s">All crew, all crew,<br />we can see the guests</p>
+      <p begin="1624.834s" xml:id="p722" end="1626.25s">walking down the dock.</p>
+      <p begin="1626.25s" xml:id="p723" end="1627.667s">Oh, my ----ing God,<br />we&#039;ve gotta get out.</p>
+      <p begin="1627.667s" xml:id="p724" end="1628.792s">Here they come.</p>
+      <p begin="1628.792s" xml:id="p725" end="1630.292s">Wait, do you guys know what<br />flag that is up there?</p>
+      <p begin="1630.292s" xml:id="p726" end="1633.709s">-It&#039;s St. Lucia.<br />-Oh, cute.</p>
+      <p begin="1633.709s" xml:id="p727" end="1635.209s">God, help us.</p>
+      <p begin="1635.209s" xml:id="p728" end="1636.209s">Coming up...</p>
+      <p begin="1636.209s" xml:id="p729" end="1637.959s">Alissa, do you want side plates?</p>
+      <p begin="1637.959s" xml:id="p730" end="1639.375s">&quot;Do you want side plates?&quot;</p>
+      <p begin="1639.375s" xml:id="p731" end="1640.667s">I&#039;m asking you, look<br />at your stripes.</p>
+      <p begin="1640.667s" xml:id="p732" end="1642.25s">No, I&#039;m asking you<br />too, because...</p>
+      <p begin="1642.25s" xml:id="p733" end="1643.375s">Look at your stripes,<br />you&#039;re on service.</p>
+      <p begin="1643.375s" xml:id="p734" end="1652.918s">It doesn&#039;t matter.</p>
+      <p begin="1652.918s" xml:id="p735" end="1654.626s">This is quite nerve-wracking.</p>
+      <p begin="1654.626s" xml:id="p736" end="1656.542s">Smile.</p>
+      <p begin="1656.542s" xml:id="p737" end="1658.584s">-Hi.<br />-Welcome aboard.</p>
+      <p begin="1658.584s" xml:id="p738" end="1659.959s">-Peng.<br />-Captain Lee.</p>
+      <p begin="1659.959s" xml:id="p739" end="1661.667s">-Hola!<br />-Oh, thank you.</p>
+      <p begin="1661.667s" xml:id="p740" end="1662.667s">A fresh towel for you.</p>
+      <p begin="1662.667s" xml:id="p741" end="1663.792s">How you doing, buddy?</p>
+      <p begin="1663.792s" xml:id="p742" end="1665.167s">Oh, perfect, thank you so much.</p>
+      <p begin="1665.167s" xml:id="p743" end="1667.167s">-I&#039;m Quai.<br />-Hello, Quai.</p>
+      <p begin="1667.167s" xml:id="p744" end="1668.501s">What was I supposed<br />to do with that?</p>
+      <p begin="1668.501s" xml:id="p745" end="1669.834s">Wash your hands.</p>
+      <p begin="1669.834s" xml:id="p746" end="1671.501s">-You, like, daub your...<br />-There you go, baby.</p>
+      <p begin="1671.501s" xml:id="p747" end="1672.918s">Thank you.</p>
+      <p begin="1672.918s" xml:id="p748" end="1675.167s">Welcome aboard, and<br />welcome to St. Lucia.</p>
+      <p begin="1675.167s" xml:id="p749" end="1677.083s">We&#039;ve got a great<br />few days planned out</p>
+      <p begin="1677.083s" xml:id="p750" end="1678.584s">for you, birthday boy.</p>
+      <p begin="1678.584s" xml:id="p751" end="1679.918s">-Thank you.<br />-Woo!</p>
+      <p begin="1679.918s" xml:id="p752" end="1681.292s">-Woohoo!<br />-Happy birthday.</p>
+      <p begin="1681.292s" xml:id="p753" end="1682.918s">I am going to have Mr. Olender<br />give you guys a tour</p>
+      <p begin="1682.918s" xml:id="p754" end="1685.375s">of the vessel, and<br />then if you don&#039;t mind,</p>
+      <p begin="1685.375s" xml:id="p755" end="1687.083s">we&#039;ll just get off this dock<br />and get the party started.</p>
+      <p begin="1687.083s" xml:id="p756" end="1688.417s">-Thank you, perfect.<br />-Yes!</p>
+      <p begin="1688.417s" xml:id="p757" end="1690.417s">-That work?<br />-I&#039;ll cheers to that.</p>
+      <p begin="1690.417s" xml:id="p758" end="1691.626s">Saddle up and go to work.</p>
+      <p begin="1691.626s" xml:id="p759" end="1693.0s">Stairs?<br />Are you guys serious?</p>
+      <p begin="1693.0s" xml:id="p760" end="1694.959s">So, this is our bridge deck aft.</p>
+      <p begin="1694.959s" xml:id="p761" end="1696.792s">Oh, this is so cute,<br />I love that.</p>
+      <p begin="1696.792s" xml:id="p762" end="1698.501s">Oh!</p>
+      <p begin="1698.501s" xml:id="p763" end="1699.876s">Oh my God.</p>
+      <p begin="1699.876s" xml:id="p764" end="1701.042s">-I&#039;m so sorry.<br />-That&#039;s all right.</p>
+      <p begin="1701.042s" xml:id="p765" end="1703.167s">What have they<br />got in this thing?</p>
+      <p begin="1703.167s" xml:id="p766" end="1704.459s">Oh, my Lord.</p>
+      <p begin="1704.459s" xml:id="p767" end="1707.167s">So, we&#039;ve got a lovely<br />lounging area here.</p>
+      <p begin="1707.167s" xml:id="p768" end="1708.918s">-I have to pee!<br />-Hot tub.</p>
+      <p begin="1708.918s" xml:id="p769" end="1710.375s">-Hot tub.<br />-Wow, yes.</p>
+      <p begin="1710.375s" xml:id="p770" end="1713.334s">Now, for anyone who wants<br />to use the bathroom...</p>
+      <p begin="1713.334s" xml:id="p771" end="1715.959s">Is there soap?</p>
+      <p begin="1715.959s" xml:id="p772" end="1718.751s">-Is there soap?<br />-Yeah, there will be.</p>
+      <p begin="1718.751s" xml:id="p773" end="1722.25s">Guests have been on board for<br />10 minutes and we ----ed up.</p>
+      <p begin="1722.25s" xml:id="p774" end="1723.375s">So, that&#039;s good.</p>
+      <p begin="1723.375s" xml:id="p775" end="1725.25s">Interior, can we please<br />get some soap?</p>
+      <p begin="1725.25s" xml:id="p776" end="1728.626s">And by the way, these<br />urine stains are not mine.</p>
+      <p begin="1728.626s" xml:id="p777" end="1730.375s">-There you go.<br />-Thank you.</p>
+      <p begin="1730.375s" xml:id="p778" end="1732.375s">Just dip &#039;em in the hot tub.</p>
+      <p begin="1732.375s" xml:id="p779" end="1735.375s">I&#039;m so sorry, we can<br />revisit the soap situation.</p>
+      <p begin="1735.375s" xml:id="p780" end="1737.667s">-Oh, you&#039;re totally fine.<br />-There we are.</p>
+      <p begin="1737.667s" xml:id="p781" end="1739.501s">Alissa, do you want side plates?</p>
+      <p begin="1739.501s" xml:id="p782" end="1740.792s">Do you want side plates?</p>
+      <p begin="1740.792s" xml:id="p783" end="1742.751s">I&#039;m asking you,<br />look at your stripes.</p>
+      <p begin="1742.751s" xml:id="p784" end="1744.125s">No, I&#039;m asking you too.</p>
+      <p begin="1744.125s" xml:id="p785" end="1745.375s">Look at your stripes,<br />you&#039;re on service.</p>
+      <p begin="1745.375s" xml:id="p786" end="1746.375s">It doesn&#039;t matter.</p>
+      <p begin="1746.375s" xml:id="p787" end="1748.042s">Yeah, you can bring<br />side plates, just because.</p>
+      <p begin="1748.042s" xml:id="p788" end="1749.25s">-You want plates?<br />-Yeah, sure.</p>
+      <p begin="1749.25s" xml:id="p789" end="1752.959s">All right.</p>
+      <p begin="1752.959s" xml:id="p790" end="1754.918s">-This is your quarters.<br />-There&#039;s a library?</p>
+      <p begin="1754.918s" xml:id="p791" end="1756.25s">-This is all Peng&#039;s room?<br />-Yeah.</p>
+      <p begin="1756.25s" xml:id="p792" end="1757.751s">-Oh, wow.<br />-Look at this.</p>
+      <p begin="1757.751s" xml:id="p793" end="1759.0s">So, will you guys go up there</p>
+      <p begin="1759.0s" xml:id="p794" end="1761.584s">and take a picture of us<br />laying down, thank you.</p>
+      <p begin="1761.584s" xml:id="p795" end="1762.834s">[laughing]</p>
+      <p begin="1762.834s" xml:id="p796" end="1764.167s">Very good idea.</p>
+      <p begin="1764.167s" xml:id="p797" end="1766.375s">-Port anchor&#039;s ready to go.<br />-Got it.</p>
+      <p begin="1766.375s" xml:id="p798" end="1768.626s">I&#039;ll probably just<br />go bow to stern.</p>
+      <p begin="1768.626s" xml:id="p799" end="1770.375s">Put Benjamin on the bow,</p>
+      <p begin="1770.375s" xml:id="p800" end="1772.584s">and I&#039;ll be down the back,<br />calling distance.</p>
+      <p begin="1772.584s" xml:id="p801" end="1774.042s">Okay.</p>
+      <p begin="1774.042s" xml:id="p802" end="1776.0s">Just stay sharp,<br />and we&#039;ll let &#039;em know</p>
+      <p begin="1776.0s" xml:id="p803" end="1777.209s">when we&#039;re gonna get underway.</p>
+      <p begin="1777.209s" xml:id="p804" end="1778.459s">Cool.</p>
+      <p begin="1778.459s" xml:id="p805" end="1782.667s">We&#039;re a new crew, new boat,<br />new location, new everything.</p>
+      <p begin="1782.667s" xml:id="p806" end="1784.167s">A lot of pressure.</p>
+      <p begin="1784.167s" xml:id="p807" end="1785.584s">They&#039;ll be pointing<br />their finger,</p>
+      <p begin="1785.584s" xml:id="p808" end="1788.292s">&quot;Look at that dumb sh--.&quot;</p>
+      <p begin="1788.292s" xml:id="p809" end="1790.167s">Can&#039;t put that toothpaste back<br />in the tube.</p>
+      <p begin="1790.167s" xml:id="p810" end="1793.167s">[sighs]</p>
+      <p begin="1793.167s" xml:id="p811" end="1794.334s">-Three o&#039;clock?<br />-Three o&#039;clock.</p>
+      <p begin="1794.334s" xml:id="p812" end="1795.375s">Thank you, thank you.</p>
+      <p begin="1795.375s" xml:id="p813" end="1796.375s">Your station will be along here.</p>
+      <p begin="1796.375s" xml:id="p814" end="1797.626s">Got it.</p>
+      <p begin="1797.626s" xml:id="p815" end="1798.959s">Just making sure fenders<br />are all good.</p>
+      <p begin="1798.959s" xml:id="p816" end="1800.501s">Yeah, can we do two<br />espresso martinis?</p>
+      <p begin="1800.501s" xml:id="p817" end="1801.959s">Of course.</p>
+      <p begin="1801.959s" xml:id="p818" end="1803.167s">If you wanna get these<br />fenders all out of the way.</p>
+      <p begin="1803.167s" xml:id="p819" end="1803.959s">Yeah.</p>
+      <p begin="1803.959s" xml:id="p820" end="1805.375s">Ross, you got everybody<br />in position?</p>
+      <p begin="1805.375s" xml:id="p821" end="1806.709s">All in position.</p>
+      <p begin="1806.709s" xml:id="p822" end="1808.375s">For lunch, we were<br />thinking around 3:00.</p>
+      <p begin="1808.375s" xml:id="p823" end="1809.959s">That&#039;s totally fine, yeah.</p>
+      <p begin="1809.959s" xml:id="p824" end="1811.751s">All right, let&#039;s go<br />bow to stern,</p>
+      <p begin="1811.751s" xml:id="p825" end="1813.834s">and let&#039;s not burn any daylight<br />while we&#039;re doing it.</p>
+      <p begin="1813.834s" xml:id="p826" end="1815.292s">I&#039;ll do, like,<br />a spicy margarita.</p>
+      <p begin="1815.292s" xml:id="p827" end="1817.834s">Cool, I can definitely<br />do that for you.</p>
+      <p begin="1817.834s" xml:id="p828" end="1819.584s">Captain, that&#039;s all<br />lines on the bow.</p>
+      <p begin="1819.584s" xml:id="p829" end="1821.042s">Okay, let&#039;s go, go.</p>
+      <p begin="1821.042s" xml:id="p830" end="1823.584s">Oh, my God, did somebody<br />make him another margarita?</p>
+      <p begin="1823.584s" xml:id="p831" end="1825.334s">Guilty.<br />Sorry, guys.</p>
+      <p begin="1825.334s" xml:id="p832" end="1826.792s">[laughing]</p>
+      <p begin="1826.792s" xml:id="p833" end="1829.292s">Go, go, go, Katie.</p>
+      <p begin="1829.292s" xml:id="p834" end="1830.292s">All lines on board.</p>
+      <p begin="1830.292s" xml:id="p835" end="1831.459s">Nice work, deck team.</p>
+      <p begin="1831.459s" xml:id="p836" end="1832.751s">Is this the ocean?</p>
+      <p begin="1832.751s" xml:id="p837" end="1835.209s">We&#039;re outta here.</p>
+      <p begin="1835.209s" xml:id="p838" end="1837.417s">I guess it&#039;s too late to turn<br />back now, isn&#039;t it?</p>
+      <p begin="1837.417s" xml:id="p839" end="1838.792s">Bring the fenders in,<br />start lashing them down.</p>
+      <p begin="1838.792s" xml:id="p840" end="1840.292s">That&#039;d be great, thanks.</p>
+      <p begin="1840.292s" xml:id="p841" end="1841.959s">Here, we&#039;re gonna push this<br />over here, help me.</p>
+      <p begin="1841.959s" xml:id="p842" end="1843.792s">Right now, like,<br />push this over there?</p>
+      <p begin="1843.792s" xml:id="p843" end="1844.959s">Like, closer to the...</p>
+      <p begin="1844.959s" xml:id="p844" end="1847.292s">-Ooh!<br />-Oh!</p>
+      <p begin="1847.292s" xml:id="p845" end="1849.167s">Get a towel! Towel!</p>
+      <p begin="1849.167s" xml:id="p846" end="1851.542s">Fraser?<br />Fraser?</p>
+      <p begin="1851.542s" xml:id="p847" end="1853.167s">Captain, foredeck.</p>
+      <p begin="1853.167s" xml:id="p848" end="1857.792s">There&#039;s no traffic ahead,<br />you&#039;re free to swing.</p>
+      <p begin="1857.792s" xml:id="p849" end="1860.375s">Hey, we&#039;re under control.</p>
+      <p begin="1860.375s" xml:id="p850" end="1863.918s">Oh, Fraser!</p>
+      <p begin="1863.918s" xml:id="p851" end="1865.042s">Oh, I&#039;m so sorry.</p>
+      <p begin="1865.042s" xml:id="p852" end="1866.959s">We spilled, like,<br />the whole plant.</p>
+      <p begin="1866.959s" xml:id="p853" end="1867.959s">Is there a way that<br />we can get paper towels?</p>
+      <p begin="1867.959s" xml:id="p854" end="1869.125s">Oh, yeah, yeah, yeah.</p>
+      <p begin="1869.125s" xml:id="p855" end="1870.834s">Peng!<br />Don&#039;t tell on us!</p>
+      <p begin="1870.834s" xml:id="p856" end="1872.459s">It was Quai who did it.</p>
+      <p begin="1872.459s" xml:id="p857" end="1873.876s">These things happen.</p>
+      <p begin="1873.876s" xml:id="p858" end="1877.501s">Is it too soon to<br />throw oneself overboard?</p>
+      <p begin="1877.501s" xml:id="p859" end="1879.167s">We were just<br />gonna move it like that.</p>
+      <p begin="1879.167s" xml:id="p860" end="1883.334s">Yeah, all good.</p>
+      <p begin="1883.334s" xml:id="p861" end="1884.834s">Good job, guys.</p>
+      <p begin="1884.834s" xml:id="p862" end="1886.042s">Looking good, Cap.</p>
+      <p begin="1886.042s" xml:id="p863" end="1888.501s">Good.</p>
+      <p begin="1888.501s" xml:id="p864" end="1895.167s">Almost 40 years.</p>
+      <p begin="1895.167s" xml:id="p865" end="1897.209s">Every sh-- job there was,<br />I did it.</p>
+      <p begin="1897.209s" xml:id="p866" end="1898.209s">Mm.</p>
+      <p begin="1898.209s" xml:id="p867" end="1899.209s">Tony&#039;s green.</p>
+      <p begin="1899.209s" xml:id="p868" end="1901.959s">Skill sets can be taught,<br />but Jesus Christ,</p>
+      <p begin="1901.959s" xml:id="p869" end="1903.792s">look at this ----ing<br />kid&#039;s attitude.</p>
+      <p begin="1903.792s" xml:id="p870" end="1905.417s">Got a smile as<br />big as all outdoors,</p>
+      <p begin="1905.417s" xml:id="p871" end="1907.083s">and the willingness<br />to learn is there.</p>
+      <p begin="1907.083s" xml:id="p872" end="1910.459s">I&#039;m going, like,<br />I can work with that.</p>
+      <p begin="1910.459s" xml:id="p873" end="1915.834s">-Bilge rat.<br />-Yeah?</p>
+      <p begin="1915.834s" xml:id="p874" end="1917.459s">Deck crew, let&#039;s go<br />and change up.</p>
+      <p begin="1917.459s" xml:id="p875" end="1918.959s">All right, Boss, I&#039;m gonna go.</p>
+      <p begin="1918.959s" xml:id="p876" end="1924.0s">-Thank you for the chat.<br />-You&#039;re welcome, sir.</p>
+      <p begin="1924.0s" xml:id="p877" end="1927.959s">Burn-face person,<br />that&#039;s what I seem to be.</p>
+      <p begin="1927.959s" xml:id="p878" end="1929.584s">Nice job on the bow.</p>
+      <p begin="1929.584s" xml:id="p879" end="1930.834s">-You think?<br />-Yeah.</p>
+      <p begin="1930.834s" xml:id="p880" end="1932.292s">-Yeah?<br />-You&#039;ve got really good...</p>
+      <p begin="1932.292s" xml:id="p881" end="1933.667s">like, I didn&#039;t realize<br />you knew so much.</p>
+      <p begin="1933.667s" xml:id="p882" end="1936.501s">Yeah.</p>
+      <p begin="1936.501s" xml:id="p883" end="1940.792s">Yeah, that&#039;d be really nice,<br />if you and I were on the bow.</p>
+      <p begin="1940.792s" xml:id="p884" end="1943.167s">I&#039;m a hopeless romantic.</p>
+      <p begin="1943.167s" xml:id="p885" end="1943.834s">Oh, you ready?</p>
+      <p begin="1943.834s" xml:id="p886" end="1946.167s">How does it go?<br />Like this.</p>
+      <p begin="1946.167s" xml:id="p887" end="1949.834s">Yeah, the eyes and the smile,<br />she got me good.</p>
+      <p begin="1949.834s" xml:id="p888" end="1951.209s">What does he say?</p>
+      <p begin="1951.209s" xml:id="p889" end="1953.334s">It&#039;s something like<br />&quot;Open your eyes, Rose.&quot;</p>
+      <p begin="1953.334s" xml:id="p890" end="1954.375s">Rose?</p>
+      <p begin="1954.375s" xml:id="p891" end="1956.375s">She was saying that<br />she wanted to be on the bow</p>
+      <p begin="1956.375s" xml:id="p892" end="1957.667s">with me next time, I said we can<br />get a real &quot;Titanic&quot; vibe going.</p>
+      <p begin="1957.667s" xml:id="p893" end="1958.751s">Yeah.</p>
+      <p begin="1958.751s" xml:id="p894" end="1959.792s">Where do you want us?</p>
+      <p begin="1959.792s" xml:id="p895" end="1960.876s">Eating lunch.</p>
+      <p begin="1960.876s" xml:id="p896" end="1962.167s">Nice, there&#039;s food.</p>
+      <p begin="1962.167s" xml:id="p897" end="1966.542s">Hey.</p>
+      <p begin="1966.542s" xml:id="p898" end="1968.959s">Salad, and then<br />roasted red peppers,</p>
+      <p begin="1968.959s" xml:id="p899" end="1971.751s">walnuts, hummus, baba ganoush.</p>
+      <p begin="1971.751s" xml:id="p900" end="1972.792s">-Okay.<br />-All right, cool, thank you.</p>
+      <p begin="1972.792s" xml:id="p901" end="1975.25s">Cool, thank you all.</p>
+      <p begin="1975.25s" xml:id="p902" end="1981.375s">That was clean, came off<br />the dock no problems.</p>
+      <p begin="1981.375s" xml:id="p903" end="1983.375s">Ross, let&#039;s get ready<br />to drop the anchor.</p>
+      <p begin="1983.375s" xml:id="p904" end="1984.876s">You called it.</p>
+      <p begin="1984.876s" xml:id="p905" end="1987.542s">Copy, on my way.</p>
+      <p begin="1987.542s" xml:id="p906" end="1989.751s">What the actual [bleep]?</p>
+      <p begin="1989.751s" xml:id="p907" end="1991.417s">It feels so good out here.</p>
+      <p begin="1991.417s" xml:id="p908" end="1993.375s">Does the boat make you feel<br />more drunk &#039;cause it wiggles?</p>
+      <p begin="1993.375s" xml:id="p909" end="1995.834s">Probably, but you need<br />to just get more drunk.</p>
+      <p begin="1995.834s" xml:id="p910" end="1997.667s">In position, ready to drop.</p>
+      <p begin="1997.667s" xml:id="p911" end="2003.709s">And drop.</p>
+      <p begin="2003.709s" xml:id="p912" end="2005.501s">Go ahead and lock it in, Ross.</p>
+      <p begin="2005.501s" xml:id="p913" end="2016.167s">We cheated death again.</p>
+      <p begin="2016.167s" xml:id="p914" end="2021.876s">[shrieking]</p>
+      <p begin="2021.876s" xml:id="p915" end="2023.501s">Aren&#039;t we supposed to be<br />having lunch right now?</p>
+      <p begin="2023.501s" xml:id="p916" end="2025.375s">Because we were just sitting<br />there for a while, and I...</p>
+      <p begin="2025.375s" xml:id="p917" end="2028.375s">I will be sure to let you know.</p>
+      <p begin="2028.375s" xml:id="p918" end="2031.792s">I&#039;ll ask.</p>
+      <p begin="2031.792s" xml:id="p919" end="2032.792s">It&#039;s ----ing frozen.</p>
+      <p begin="2032.792s" xml:id="p920" end="2034.167s">-Frozen?<br />-Yeah.</p>
+      <p begin="2034.167s" xml:id="p921" end="2036.292s">I don&#039;t give a sh--.<br />It really is what it is.</p>
+      <p begin="2036.292s" xml:id="p922" end="2037.709s">There&#039;s nothing<br />we can do about it.</p>
+      <p begin="2037.709s" xml:id="p923" end="2039.167s">So, lunch is late.</p>
+      <p begin="2039.167s" xml:id="p924" end="2041.334s">We&#039;ve got so many factors<br />that are in play here...</p>
+      <p begin="2041.334s" xml:id="p925" end="2048.876s">new crew, new equipment,<br />and a very vast boat.</p>
+      <p begin="2048.876s" xml:id="p926" end="2050.792s">Suck my ----ing sphincter.</p>
+      <p begin="2050.792s" xml:id="p927" end="2053.459s">And now I feel like<br />a rushed asshole.</p>
+      <p begin="2053.459s" xml:id="p928" end="2054.542s">That ----ing sucks.</p>
+      <p begin="2054.542s" xml:id="p929" end="2055.709s">We haven&#039;t had lunch yet.</p>
+      <p begin="2055.709s" xml:id="p930" end="2056.709s">We were supposed to eat<br />at 3:00, though.</p>
+      <p begin="2056.709s" xml:id="p931" end="2063.125s">----ing hell.<br />This is quite nerve-wracking.</p>
+      <p begin="2063.125s" xml:id="p932" end="2064.584s">Do you want a drink?</p>
+      <p begin="2064.584s" xml:id="p933" end="2065.959s">No, I don&#039;t, actually.</p>
+      <p begin="2065.959s" xml:id="p934" end="2071.417s">I wanna eat.</p>
+      <p begin="2071.417s" xml:id="p935" end="2074.709s">Motor [bleep] me bitch, and<br />not you, I meant life.</p>
+      <p begin="2074.709s" xml:id="p936" end="2076.042s">Let&#039;s get that pump.</p>
+      <p begin="2076.042s" xml:id="p937" end="2077.751s">Uh-huh.</p>
+      <p begin="2077.751s" xml:id="p938" end="2079.918s">If you&#039;re not topless dancing<br />by the end of this trip,</p>
+      <p begin="2079.918s" xml:id="p939" end="2080.918s">I&#039;m not here for it.</p>
+      <p begin="2080.918s" xml:id="p940" end="2082.584s">-Oh, my God!<br />-Yes!</p>
+      <p begin="2082.584s" xml:id="p941" end="2084.375s">Nothing&#039;s working out today.</p>
+      <p begin="2084.375s" xml:id="p942" end="2086.584s">When are we eating,<br />is that soon?</p>
+      <p begin="2086.584s" xml:id="p943" end="2088.083s">Very, very, very soon.</p>
+      <p begin="2088.083s" xml:id="p944" end="2089.584s">-Ready to go?<br />-Yeah.</p>
+      <p begin="2089.584s" xml:id="p945" end="2090.959s">Okay, I&#039;m gonna invite them<br />to be seated,</p>
+      <p begin="2090.959s" xml:id="p946" end="2092.125s">come down, and take stuff up.</p>
+      <p begin="2092.125s" xml:id="p947" end="2093.459s">Yes, that&#039;s perfect, thank you.</p>
+      <p begin="2093.459s" xml:id="p948" end="2095.167s">-Ready?<br />-Yeah.</p>
+      <p begin="2095.167s" xml:id="p949" end="2096.0s">Day one.</p>
+      <p begin="2096.0s" xml:id="p950" end="2097.167s">Can I invite you<br />to be seated for lunch?</p>
+      <p begin="2097.167s" xml:id="p951" end="2098.459s">-Ready to go?<br />-Yeah.</p>
+      <p begin="2098.459s" xml:id="p952" end="2102.334s">Thank you.</p>
+      <p begin="2102.334s" xml:id="p953" end="2103.834s">So, you&#039;re at the head<br />of the table...</p>
+      <p begin="2103.834s" xml:id="p954" end="2105.292s">-Wait, is there dinner?<br />-No, lunch, honey.</p>
+      <p begin="2105.292s" xml:id="p955" end="2106.292s">It&#039;s lunch.</p>
+      <p begin="2106.292s" xml:id="p956" end="2107.459s">Oh.</p>
+      <p begin="2107.459s" xml:id="p957" end="2109.375s">Alissa, we&#039;re gonna start<br />taking food up together now.</p>
+      <p begin="2109.375s" xml:id="p958" end="2110.792s">Oh, okay.</p>
+      <p begin="2110.792s" xml:id="p959" end="2111.959s">We&#039;re gonna dot it<br />around the table.</p>
+      <p begin="2111.959s" xml:id="p960" end="2113.584s">If you can go to<br />one part of the table,</p>
+      <p begin="2113.584s" xml:id="p961" end="2117.417s">and I can go to the other.</p>
+      <p begin="2117.417s" xml:id="p962" end="2118.584s">Oh.</p>
+      <p begin="2118.584s" xml:id="p963" end="2119.709s">We need the pita.</p>
+      <p begin="2119.709s" xml:id="p964" end="2120.792s">Hey, guys.</p>
+      <p begin="2120.792s" xml:id="p965" end="2123.083s">Yay!</p>
+      <p begin="2123.083s" xml:id="p966" end="2125.751s">So, this is baba ganoush.</p>
+      <p begin="2125.751s" xml:id="p967" end="2128.083s">Feta, hummus, and some olives.</p>
+      <p begin="2128.083s" xml:id="p968" end="2129.834s">You guys, I don&#039;t even<br />know what I&#039;m eating.</p>
+      <p begin="2129.834s" xml:id="p969" end="2130.918s">There&#039;s, like, beans in this.</p>
+      <p begin="2130.918s" xml:id="p970" end="2132.459s">It&#039;s hummus.</p>
+      <p begin="2132.459s" xml:id="p971" end="2133.792s">Ooh, that&#039;s good.</p>
+      <p begin="2133.792s" xml:id="p972" end="2135.459s">I&#039;m getting hangry.</p>
+      <p begin="2135.459s" xml:id="p973" end="2137.375s">We need more than bread.</p>
+      <p begin="2137.375s" xml:id="p974" end="2138.959s">Why have I got a pillow?</p>
+      <p begin="2138.959s" xml:id="p975" end="2142.459s">First lunch service,<br />I&#039;m feeling a little bit...</p>
+      <p begin="2142.459s" xml:id="p976" end="2144.542s">Okay...<br />...frazzled.</p>
+      <p begin="2144.542s" xml:id="p977" end="2145.626s">-Right there.<br />-Oh!</p>
+      <p begin="2145.626s" xml:id="p978" end="2147.167s">Oh, my God, Peng.</p>
+      <p begin="2147.167s" xml:id="p979" end="2149.375s">What is happening,<br />I don&#039;t even get it right now.</p>
+      <p begin="2149.375s" xml:id="p980" end="2150.918s">Oh, was that from me?</p>
+      <p begin="2150.918s" xml:id="p981" end="2153.292s">I&#039;ll attend to it right away,<br />no worries.</p>
+      <p begin="2153.292s" xml:id="p982" end="2155.125s">What can I do, apart from<br />just roll with the punches?</p>
+      <p begin="2155.125s" xml:id="p983" end="2162.375s">I&#039;m not God, as much<br />as I look like him.</p>
+      <p begin="2162.375s" xml:id="p984" end="2166.501s">Maybe we should stop<br />drinking for a minute.</p>
+      <p begin="2166.501s" xml:id="p985" end="2168.167s">I have the meat, guys.</p>
+      <p begin="2168.167s" xml:id="p986" end="2171.584s">So, we have chicken over here,<br />and then we&#039;ve got lamb as well.</p>
+      <p begin="2171.584s" xml:id="p987" end="2173.209s">Sh--, I&#039;m already full.</p>
+      <p begin="2173.209s" xml:id="p988" end="2174.959s">Where did this even come from?</p>
+      <p begin="2174.959s" xml:id="p989" end="2182.959s">I&#039;m sweating like an<br />absolute filthy, reckless...</p>
+      <p begin="2182.959s" xml:id="p990" end="2184.292s">That was so good.</p>
+      <p begin="2184.292s" xml:id="p991" end="2186.792s">It was so good,<br />that was amazing.</p>
+      <p begin="2186.792s" xml:id="p992" end="2191.083s">Okay, we&#039;ll come out and clear.</p>
+      <p begin="2191.083s" xml:id="p993" end="2193.375s">Cool, let&#039;s start with platters.</p>
+      <p begin="2193.375s" xml:id="p994" end="2194.375s">Let&#039;s go swim!</p>
+      <p begin="2194.375s" xml:id="p995" end="2196.584s">And so tonight, I&#039;ve got<br />three dancers coming on.</p>
+      <p begin="2196.584s" xml:id="p996" end="2198.584s">I&#039;m gonna send for them<br />to come in a water taxi.</p>
+      <p begin="2198.584s" xml:id="p997" end="2202.792s">At 5:30 we&#039;ve got<br />the birthday cake pickup.</p>
+      <p begin="2202.792s" xml:id="p998" end="2204.167s">Five-thirty and<br />pick up a giant cake,</p>
+      <p begin="2204.167s" xml:id="p999" end="2205.709s">might have someone in it,<br />might not.</p>
+      <p begin="2205.709s" xml:id="p1000" end="2207.792s">I don&#039;t think it will then,<br />but it will eventually.</p>
+      <p begin="2207.792s" xml:id="p1001" end="2209.959s">Cool.</p>
+      <p begin="2209.959s" xml:id="p1002" end="2211.501s">Okay, let&#039;s try that,<br />how does it look?</p>
+      <p begin="2211.501s" xml:id="p1003" end="2214.292s">You look amazing.</p>
+      <p begin="2214.292s" xml:id="p1004" end="2215.709s">-Thank you very much.<br />-Yep.</p>
+      <p begin="2215.709s" xml:id="p1005" end="2216.959s">Oh sh--, it&#039;s wet.</p>
+      <p begin="2216.959s" xml:id="p1006" end="2218.959s">-Why is it wet?<br />-We&#039;re on an ocean.</p>
+      <p begin="2218.959s" xml:id="p1007" end="2223.083s">Oh!</p>
+      <p begin="2223.083s" xml:id="p1008" end="2225.501s">Look how pretty this is.</p>
+      <p begin="2225.501s" xml:id="p1009" end="2227.0s">Nine o&#039;clock&#039;s fine for dinner?</p>
+      <p begin="2227.0s" xml:id="p1010" end="2229.501s">It&#039;s tasting menus,<br />truffle, Italian,</p>
+      <p begin="2229.501s" xml:id="p1011" end="2230.959s">every ----ing thing.</p>
+      <p begin="2230.959s" xml:id="p1012" end="2232.292s">You can get that done in an hour<br />and a half.</p>
+      <p begin="2232.292s" xml:id="p1013" end="2233.792s">-Oh, yeah.<br />-They&#039;re gonna be absolute...</p>
+      <p begin="2233.792s" xml:id="p1014" end="2235.542s">-----ing wasted?<br />-Knee-deep wasted by then.</p>
+      <p begin="2235.542s" xml:id="p1015" end="2236.626s">Love it.</p>
+      <p begin="2236.626s" xml:id="p1016" end="2237.959s">I&#039;m excited for the rage party.</p>
+      <p begin="2237.959s" xml:id="p1017" end="2239.834s">I hope my break is on<br />that dumbass party.</p>
+      <p begin="2239.834s" xml:id="p1018" end="2242.209s">I&#039;m excited about the rage,<br />I&#039;m excited.</p>
+      <p begin="2242.209s" xml:id="p1019" end="2243.25s">For somebody else&#039;s rage?</p>
+      <p begin="2243.25s" xml:id="p1020" end="2244.959s">They want us to be a part of it.</p>
+      <p begin="2244.959s" xml:id="p1021" end="2247.751s">-I know, but I&#039;m...<br />-We can&#039;t drink, but...</p>
+      <p begin="2247.751s" xml:id="p1022" end="2251.042s">I won&#039;t be raging, then.</p>
+      <p begin="2251.042s" xml:id="p1023" end="2252.417s">If I were second stew,</p>
+      <p begin="2252.417s" xml:id="p1024" end="2254.876s">I&#039;d have fun with it,<br />a little more fun.</p>
+      <p begin="2254.876s" xml:id="p1025" end="2256.792s">-Thank you.<br />-You&#039;re welcome.</p>
+      <p begin="2256.792s" xml:id="p1026" end="2259.959s">Alissa, she&#039;s like that kid<br />in class who got all A&#039;s,</p>
+      <p begin="2259.959s" xml:id="p1027" end="2262.167s">and I was that kid in class<br />who was like,</p>
+      <p begin="2262.167s" xml:id="p1028" end="2264.25s">if I just get a C, man, like,</p>
+      <p begin="2264.25s" xml:id="p1029" end="2267.417s">we just gon&#039; roll out with<br />that degree, pack it up.</p>
+      <p begin="2267.417s" xml:id="p1030" end="2269.792s">-Camille, Camille, Fraser.<br />-Go ahead.</p>
+      <p begin="2269.792s" xml:id="p1031" end="2271.626s">Can you meet me in<br />the crew mess, please?</p>
+      <p begin="2271.626s" xml:id="p1032" end="2273.959s">Yeah, I&#039;ve gotta run some<br />drinks and I&#039;ll be right down.</p>
+      <p begin="2273.959s" xml:id="p1033" end="2276.209s">-You can go.<br />-I am.</p>
+      <p begin="2276.209s" xml:id="p1034" end="2277.959s">Oh, no, I was talking to Fraser.</p>
+      <p begin="2277.959s" xml:id="p1035" end="2279.626s">-Oh, go to Fraser?<br />-Yeah.</p>
+      <p begin="2279.626s" xml:id="p1036" end="2281.459s">Okay, cool.</p>
+      <p begin="2281.459s" xml:id="p1037" end="2284.459s">Oh, my God,<br />that cake is awesome.</p>
+      <p begin="2284.459s" xml:id="p1038" end="2287.292s">-Hello.<br />-Okay, got it?</p>
+      <p begin="2287.292s" xml:id="p1039" end="2288.584s">Gorge.</p>
+      <p begin="2288.584s" xml:id="p1040" end="2289.792s">They&#039;re gonna love those,<br />aren&#039;t they?</p>
+      <p begin="2289.792s" xml:id="p1041" end="2290.959s">No, these are great.</p>
+      <p begin="2290.959s" xml:id="p1042" end="2292.167s">-Oh!<br />-Oh!</p>
+      <p begin="2292.167s" xml:id="p1043" end="2294.834s">-I made it.<br />-Ooh.</p>
+      <p begin="2294.834s" xml:id="p1044" end="2296.667s">-Can you come down now, please?<br />-Yeah.</p>
+      <p begin="2296.667s" xml:id="p1045" end="2297.667s">We&#039;re also gonna dress the crew.</p>
+      <p begin="2297.667s" xml:id="p1046" end="2298.959s">I&#039;m excited.</p>
+      <p begin="2298.959s" xml:id="p1047" end="2300.542s">Yeah, these are fun,<br />aren&#039;t they?</p>
+      <p begin="2300.542s" xml:id="p1048" end="2301.709s">Almost looks better, doesn&#039;t it?</p>
+      <p begin="2301.709s" xml:id="p1049" end="2303.125s">And this way, it&#039;s a surprise.</p>
+      <p begin="2303.125s" xml:id="p1050" end="2307.709s">Yeah, it really is.</p>
+      <p begin="2307.709s" xml:id="p1051" end="2309.083s">Yeah.</p>
+      <p begin="2309.083s" xml:id="p1052" end="2311.25s">Okay, I&#039;m so small,<br />like, even sitting</p>
+      <p begin="2311.25s" xml:id="p1053" end="2316.792s">on this top thing<br />I see right here.</p>
+      <p begin="2316.792s" xml:id="p1054" end="2318.0s">Shut up!</p>
+      <p begin="2318.0s" xml:id="p1055" end="2319.709s">You guys, I lost my sunglasses.</p>
+      <p begin="2319.709s" xml:id="p1056" end="2321.792s">They&#039;re on your face.</p>
+      <p begin="2321.792s" xml:id="p1057" end="2324.375s">They&#039;re drunker than a bunch of<br />four-peckered goats, ain&#039;t they?</p>
+      <p begin="2324.375s" xml:id="p1058" end="2325.584s">Got it.</p>
+      <p begin="2325.584s" xml:id="p1059" end="2326.667s">-Okay.<br />-Okay.</p>
+      <p begin="2326.667s" xml:id="p1060" end="2327.959s">This thing is so slippery.</p>
+      <p begin="2327.959s" xml:id="p1061" end="2329.501s">Grab the middle part.</p>
+      <p begin="2329.501s" xml:id="p1062" end="2332.501s">Where my hands are, you see?</p>
+      <p begin="2332.501s" xml:id="p1063" end="2335.25s">Yeah!</p>
+      <p begin="2335.25s" xml:id="p1064" end="2337.0s">Darling, go down and get into<br />your blacks for me, please?</p>
+      <p begin="2337.0s" xml:id="p1065" end="2343.626s">-Dress?<br />-Yes, please.</p>
+      <p begin="2343.626s" xml:id="p1066" end="2347.626s">Nice to be on the hook instead<br />of running around in the dark.</p>
+      <p begin="2347.626s" xml:id="p1067" end="2350.125s">-You&#039;ve never been to Utah?<br />-I&#039;ve not, no.</p>
+      <p begin="2350.125s" xml:id="p1068" end="2351.292s">I&#039;ll tell you this,<br />it will surprise you.</p>
+      <p begin="2351.292s" xml:id="p1069" end="2354.501s">I mean, I just adore gay...</p>
+      <p begin="2354.501s" xml:id="p1070" end="2356.042s">-Anything.<br />-Anything.</p>
+      <p begin="2356.042s" xml:id="p1071" end="2357.792s">Do you know about Mormons?</p>
+      <p begin="2357.792s" xml:id="p1072" end="2359.083s">Well, I&#039;ve heard.</p>
+      <p begin="2359.083s" xml:id="p1073" end="2360.292s">Did you know<br />we were all Mormon?</p>
+      <p begin="2360.292s" xml:id="p1074" end="2361.959s">-Was there a...<br />-Like, all of us here.</p>
+      <p begin="2361.959s" xml:id="p1075" end="2362.959s">-We&#039;re all Mormon.<br />-We were all Mormons.</p>
+      <p begin="2362.959s" xml:id="p1076" end="2364.125s">We were all Mormon.</p>
+      <p begin="2364.125s" xml:id="p1077" end="2365.709s">-What does that mean?<br />-Multiple wives.</p>
+      <p begin="2365.709s" xml:id="p1078" end="2367.125s">See, I just...</p>
+      <p begin="2367.125s" xml:id="p1079" end="2368.125s">No, not multiple wives,<br />that&#039;s not Mormon.</p>
+      <p begin="2368.125s" xml:id="p1080" end="2369.626s">No, that&#039;s not Mormon.</p>
+      <p begin="2369.626s" xml:id="p1081" end="2372.042s">Okay.</p>
+      <p begin="2372.042s" xml:id="p1082" end="2376.334s">Point three,<br />point four on the swing...</p>
+      <p begin="2376.334s" xml:id="p1083" end="2377.834s">humping.</p>
+      <p begin="2377.834s" xml:id="p1084" end="2379.792s">I have been a captain 37 years,</p>
+      <p begin="2379.792s" xml:id="p1085" end="2383.792s">I&#039;ve been knocking around<br />the Caribbean for a long time.</p>
+      <p begin="2383.792s" xml:id="p1086" end="2385.792s">St. Lucia&#039;s just one of<br />my favorite islands.</p>
+      <p begin="2385.792s" xml:id="p1087" end="2388.542s">I just love coming here,<br />it&#039;s breathtaking.</p>
+      <p begin="2388.542s" xml:id="p1088" end="2391.626s">But you&#039;ve got the trade winds<br />down here, and it&#039;s gonna blow.</p>
+      <p begin="2391.626s" xml:id="p1089" end="2394.167s">Just like, waa, waa.</p>
+      <p begin="2394.167s" xml:id="p1090" end="2396.417s">It&#039;s gonna make your<br />life miserable.</p>
+      <p begin="2396.417s" xml:id="p1091" end="2397.959s">Suck it up, creampuff.</p>
+      <p begin="2397.959s" xml:id="p1092" end="2399.751s">Ain&#039;t nothing but wind.</p>
+      <p begin="2399.751s" xml:id="p1093" end="2401.959s">It&#039;s going to be<br />very tiny tonight.</p>
+      <p begin="2401.959s" xml:id="p1094" end="2403.417s">Okay, so small bowls.</p>
+      <p begin="2403.417s" xml:id="p1095" end="2405.0s">Yeah, I don&#039;t even think<br />they&#039;re that hungry.</p>
+      <p begin="2405.0s" xml:id="p1096" end="2406.876s">No, well, they&#039;re drunk as well.</p>
+      <p begin="2406.876s" xml:id="p1097" end="2408.918s">Love you, thank you.</p>
+      <p begin="2408.918s" xml:id="p1098" end="2411.0s">Interior, would one<br />of you be able</p>
+      <p begin="2411.0s" xml:id="p1099" end="2413.584s">to bring eight wine glasses<br />from behind the bar?</p>
+      <p begin="2413.584s" xml:id="p1100" end="2417.417s">Copy that, Fraser.</p>
+      <p begin="2417.417s" xml:id="p1101" end="2418.709s">Hello, my love.</p>
+      <p begin="2418.709s" xml:id="p1102" end="2420.918s">Hello, gorgeous girl.</p>
+      <p begin="2420.918s" xml:id="p1103" end="2429.125s">It&#039;s pretty classic,<br />pretty chic.</p>
+      <p begin="2429.125s" xml:id="p1104" end="2430.876s">[glass shatters]</p>
+      <p begin="2430.876s" xml:id="p1105" end="2432.709s">How many have we lost?</p>
+      <p begin="2432.709s" xml:id="p1106" end="2434.584s">-One.<br />-Yeah.</p>
+      <p begin="2434.584s" xml:id="p1107" end="2436.417s">Is it the boat or is it me?</p>
+      <p begin="2436.417s" xml:id="p1108" end="2438.584s">-No, the boat&#039;s rocking.<br />-No, the boat is bad.</p>
+      <p begin="2438.584s" xml:id="p1109" end="2440.334s">Help me.</p>
+      <p begin="2440.334s" xml:id="p1110" end="2444.959s">Hey, Rache, we just had a lot<br />of things go over in the galley.</p>
+      <p begin="2444.959s" xml:id="p1111" end="2449.334s">Tony, can you get us<br />some kind of broom?</p>
+      <p begin="2449.334s" xml:id="p1112" end="2450.375s">What happened?</p>
+      <p begin="2450.375s" xml:id="p1113" end="2453.792s">The boat rocked and<br />everything went sideways.</p>
+      <p begin="2453.792s" xml:id="p1114" end="2455.25s">We got a problem.</p>
+      <p begin="2455.25s" xml:id="p1115" end="2456.792s">I have to stop<br />what I&#039;m doing</p>
+      <p begin="2456.792s" xml:id="p1116" end="2459.375s">and I have to go over and<br />clean everything thoroughly.</p>
+      <p begin="2459.375s" xml:id="p1117" end="2462.459s">If somebody, like, chews on<br />glass, I mean, that&#039;s my ass.</p>
+      <p begin="2462.459s" xml:id="p1118" end="2463.751s">But it takes time.</p>
+      <p begin="2463.751s" xml:id="p1119" end="2470.876s">This is, like, such a nightmare.</p>
+      <p begin="2470.876s" xml:id="p1120" end="2471.959s">Coming up...</p>
+      <p begin="2471.959s" xml:id="p1121" end="2473.25s">The crew area needs a vacuum.</p>
+      <p begin="2473.25s" xml:id="p1122" end="2475.959s">The crew needs<br />a vacuum right now.</p>
+      <p begin="2475.959s" xml:id="p1123" end="2477.959s">Literally have to<br />stop what I&#039;m doing</p>
+      <p begin="2477.959s" xml:id="p1124" end="2485.167s">to chase her around the boat.<br />Do you want a drink?</p>
+      <p begin="2485.167s" xml:id="p1125" end="2487.0s">What happened?</p>
+      <p begin="2487.0s" xml:id="p1126" end="2490.417s">The boat rocked and<br />everything went sideways.</p>
+      <p begin="2490.417s" xml:id="p1127" end="2493.167s">This dinner service<br />is not going how I planned.</p>
+      <p begin="2493.167s" xml:id="p1128" end="2498.959s">I&#039;ve got glass everywhere, and<br />now I&#039;m in such a time crunch.</p>
+      <p begin="2498.959s" xml:id="p1129" end="2500.834s">The only thing I&#039;m worried<br />about is me spiraling</p>
+      <p begin="2500.834s" xml:id="p1130" end="2503.375s">and ----ing shove my<br />foot up someone&#039;s ass.</p>
+      <p begin="2503.375s" xml:id="p1131" end="2512.167s">Thank you, guys.</p>
+      <p begin="2512.167s" xml:id="p1132" end="2513.834s">Here we go!</p>
+      <p begin="2513.834s" xml:id="p1133" end="2515.334s">Oh, is that for me?</p>
+      <p begin="2515.334s" xml:id="p1134" end="2516.167s">That&#039;s for you.</p>
+      <p begin="2516.167s" xml:id="p1135" end="2517.792s">Rachel, Rachel, Fraser.</p>
+      <p begin="2517.792s" xml:id="p1136" end="2518.918s">Have you got an ETA?</p>
+      <p begin="2518.918s" xml:id="p1137" end="2522.417s">Can I escort them to the table?</p>
+      <p begin="2522.417s" xml:id="p1138" end="2524.125s">I just wanna welcome you guys<br />to dinner</p>
+      <p begin="2524.125s" xml:id="p1139" end="2527.083s">upstairs in the sky lounge.<br />Yes.</p>
+      <p begin="2527.083s" xml:id="p1140" end="2529.167s">I&#039;ve had a wedgie for<br />about two hours.</p>
+      <p begin="2529.167s" xml:id="p1141" end="2530.667s">This looks way too pretty!</p>
+      <p begin="2530.667s" xml:id="p1142" end="2534.626s">Y&#039;all, we look like<br />Mississippi porch whores.</p>
+      <p begin="2534.626s" xml:id="p1143" end="2536.167s">[laughing]</p>
+      <p begin="2536.167s" xml:id="p1144" end="2538.167s">-Towel&#039;s a bit wet.<br />-Yeah, they&#039;re wet.</p>
+      <p begin="2538.167s" xml:id="p1145" end="2539.626s">[giggles]</p>
+      <p begin="2539.626s" xml:id="p1146" end="2541.375s">-Breads?<br />-Yeah, breads can go.</p>
+      <p begin="2541.375s" xml:id="p1147" end="2545.834s">-Can I get some butter?<br />-I&#039;ve not got butter ready.</p>
+      <p begin="2545.834s" xml:id="p1148" end="2547.375s">Okay.</p>
+      <p begin="2547.375s" xml:id="p1149" end="2548.959s">Offer them everything,<br />they&#039;ve got drinks coming.</p>
+      <p begin="2548.959s" xml:id="p1150" end="2552.792s">I&#039;m gonna get<br />a chardonnay as well.</p>
+      <p begin="2552.792s" xml:id="p1151" end="2554.417s">[gasps]<br />We have it!</p>
+      <p begin="2554.417s" xml:id="p1152" end="2557.792s">[bleep] it, I&#039;ve just got a<br />little bread for right now,</p>
+      <p begin="2557.792s" xml:id="p1153" end="2559.959s">we&#039;ve got all our<br />starters working.</p>
+      <p begin="2559.959s" xml:id="p1154" end="2563.959s">I don&#039;t eat bread,<br />so, like, whatever.</p>
+      <p begin="2563.959s" xml:id="p1155" end="2565.876s">It doesn&#039;t?<br />I feel like it does.</p>
+      <p begin="2565.876s" xml:id="p1156" end="2569.25s">Squeeze it in!</p>
+      <p begin="2569.25s" xml:id="p1157" end="2572.0s">These guests are getting<br />extremely ----ed up.</p>
+      <p begin="2572.0s" xml:id="p1158" end="2574.375s">Can you pass the oil?</p>
+      <p begin="2574.375s" xml:id="p1159" end="2575.501s">Girl!</p>
+      <p begin="2575.501s" xml:id="p1160" end="2580.042s">That&#039;s, like, my vibe.<br />I love drinking.</p>
+      <p begin="2580.042s" xml:id="p1161" end="2581.959s">If you wanna help<br />Hayley out, yeah.</p>
+      <p begin="2581.959s" xml:id="p1162" end="2583.375s">So, what time was dinner at?</p>
+      <p begin="2583.375s" xml:id="p1163" end="2584.959s">It&#039;s 10:00.</p>
+      <p begin="2584.959s" xml:id="p1164" end="2586.042s">Why are we sitting here?</p>
+      <p begin="2586.042s" xml:id="p1165" end="2587.751s">We just want the food.</p>
+      <p begin="2587.751s" xml:id="p1166" end="2590.167s">Fraser, Fraser, the first<br />course that will be coming out</p>
+      <p begin="2590.167s" xml:id="p1167" end="2592.959s">will be the cauliflower puree.</p>
+      <p begin="2592.959s" xml:id="p1168" end="2595.292s">They&#039;ve requested a<br />multi-course tasting dinner.</p>
+      <p begin="2595.292s" xml:id="p1169" end="2599.876s">There&#039;s a lot that goes into it,<br />and everything&#039;s downstairs.</p>
+      <p begin="2599.876s" xml:id="p1170" end="2601.459s">It&#039;s a lot of running around,</p>
+      <p begin="2601.459s" xml:id="p1171" end="2608.0s">and every single second<br />counts when you&#039;re in service.</p>
+      <p begin="2608.0s" xml:id="p1172" end="2610.375s">It&#039;s like zero to 100, okay?</p>
+      <p begin="2610.375s" xml:id="p1173" end="2612.751s">Don&#039;t be a [bleep].</p>
+      <p begin="2612.751s" xml:id="p1174" end="2615.042s">-Not you.<br />-Deck crew, Fraser.</p>
+      <p begin="2615.042s" xml:id="p1175" end="2618.751s">Is anyone on deck<br />available to help me serve?</p>
+      <p begin="2618.751s" xml:id="p1176" end="2619.959s">We&#039;re a bit behind.</p>
+      <p begin="2619.959s" xml:id="p1177" end="2621.25s">I can help, if you need it.</p>
+      <p begin="2621.25s" xml:id="p1178" end="2624.709s">Hey, love.</p>
+      <p begin="2624.709s" xml:id="p1179" end="2626.083s">Brilliant.</p>
+      <p begin="2626.083s" xml:id="p1180" end="2628.959s">I feel like Peng is, like,<br />so, like, welcoming.</p>
+      <p begin="2628.959s" xml:id="p1181" end="2631.834s">He was, like, my first,<br />like, friend in Salt Lake,</p>
+      <p begin="2631.834s" xml:id="p1182" end="2634.876s">and he just, like...<br />like, loved you.</p>
+      <p begin="2634.876s" xml:id="p1183" end="2635.959s">-Oh!<br />-And I love you.</p>
+      <p begin="2635.959s" xml:id="p1184" end="2637.876s">That was actually so cute.</p>
+      <p begin="2637.876s" xml:id="p1185" end="2639.292s">Oh, Fraser, you want<br />both of us?</p>
+      <p begin="2639.292s" xml:id="p1186" end="2640.959s">If you&#039;re free.</p>
+      <p begin="2640.959s" xml:id="p1187" end="2641.959s">-Take your napkin?<br />-Yes, thank you.</p>
+      <p begin="2641.959s" xml:id="p1188" end="2642.959s">Yeah, that came out perfect.</p>
+      <p begin="2642.959s" xml:id="p1189" end="2644.417s">But what is that?</p>
+      <p begin="2644.417s" xml:id="p1190" end="2648.834s">Hi, I&#039;m letting you<br />know what you&#039;re eating.</p>
+      <p begin="2648.834s" xml:id="p1191" end="2650.042s">It&#039;s mushrooms.</p>
+      <p begin="2650.042s" xml:id="p1192" end="2652.417s">Actually, it is<br />roasted cauliflowers...</p>
+      <p begin="2652.417s" xml:id="p1193" end="2653.751s">plural, different types.</p>
+      <p begin="2653.751s" xml:id="p1194" end="2654.959s">It&#039;s totally mushrooms.</p>
+      <p begin="2654.959s" xml:id="p1195" end="2656.584s">There&#039;s no mushrooms in it.</p>
+      <p begin="2656.584s" xml:id="p1196" end="2658.0s">What?</p>
+      <p begin="2658.0s" xml:id="p1197" end="2660.125s">So good, I just ate it all.</p>
+      <p begin="2660.125s" xml:id="p1198" end="2665.25s">With a little bit of an<br />herbaceous morel broth.</p>
+      <p begin="2665.25s" xml:id="p1199" end="2666.876s">-It&#039;s delicious.<br />-Thank you.</p>
+      <p begin="2666.876s" xml:id="p1200" end="2668.375s">-Thank you!<br />-It&#039;s so good.</p>
+      <p begin="2668.375s" xml:id="p1201" end="2670.626s">It&#039;s totally mushrooms,<br />but that&#039;s all right.</p>
+      <p begin="2670.626s" xml:id="p1202" end="2672.626s">So, what&#039;s dinner service like?</p>
+      <p begin="2672.626s" xml:id="p1203" end="2674.083s">I felt like a sh---show.</p>
+      <p begin="2674.083s" xml:id="p1204" end="2676.459s">Do we think we&#039;ll<br />get more food, or no?</p>
+      <p begin="2676.459s" xml:id="p1205" end="2677.959s">Was that it?</p>
+      <p begin="2677.959s" xml:id="p1206" end="2681.125s">It&#039;s supposed to be five-star<br />and it feels like...</p>
+      <p begin="2681.125s" xml:id="p1207" end="2682.792s">-Yeah.<br />-three to me.</p>
+      <p begin="2682.792s" xml:id="p1208" end="2686.501s">It just was like, there&#039;s no<br />butter prepared, no wine pulled.</p>
+      <p begin="2686.501s" xml:id="p1209" end="2688.834s">She needs to just<br />stop with the whining.</p>
+      <p begin="2688.834s" xml:id="p1210" end="2690.667s">Do you feel like<br />it was rushed, or?</p>
+      <p begin="2690.667s" xml:id="p1211" end="2692.959s">Discombobbled.</p>
+      <p begin="2692.959s" xml:id="p1212" end="2708.375s">Just smile,<br />suck it up and carry on.</p>
+      <p begin="2708.375s" xml:id="p1213" end="2710.0s">Good evening.</p>
+      <p begin="2710.0s" xml:id="p1214" end="2712.667s">I have some<br />beautiful shots, guys.</p>
+      <p begin="2712.667s" xml:id="p1215" end="2713.959s">Oh!</p>
+      <p begin="2713.959s" xml:id="p1216" end="2715.959s">-And you had the Fireball?<br />-Fireball, yeah.</p>
+      <p begin="2715.959s" xml:id="p1217" end="2717.751s">-Cool.<br />-Oh, God.</p>
+      <p begin="2717.751s" xml:id="p1218" end="2720.0s">-Thank you guys.<br />-Of course.</p>
+      <p begin="2720.0s" xml:id="p1219" end="2721.542s">Follow me, guys, please.</p>
+      <p begin="2721.542s" xml:id="p1220" end="2724.876s">Cheers, cheers, cheers.</p>
+      <p begin="2724.876s" xml:id="p1221" end="2727.167s">-Woo!<br />-No, right, it&#039;s extra fiery.</p>
+      <p begin="2727.167s" xml:id="p1222" end="2728.834s">It&#039;s like sucking on<br />the devil&#039;s dick.</p>
+      <p begin="2728.834s" xml:id="p1223" end="2731.25s">-Ugh!<br />-Ugh!</p>
+      <p begin="2731.25s" xml:id="p1224" end="2732.375s">Eew!</p>
+      <p begin="2732.375s" xml:id="p1225" end="2736.959s">Oh, my God, Peng,<br />don&#039;t throw up!</p>
+      <p begin="2736.959s" xml:id="p1226" end="2737.959s">He will.<br />No, he will.</p>
+      <p begin="2737.959s" xml:id="p1227" end="2739.375s">No, yeah, I think... yeah.</p>
+      <p begin="2739.375s" xml:id="p1228" end="2740.584s">So, for how long have you been<br />doing this?</p>
+      <p begin="2740.584s" xml:id="p1229" end="2742.125s">-Doing this...<br />-Yes.</p>
+      <p begin="2742.125s" xml:id="p1230" end="2744.876s">-About 15 years.<br />-For real?</p>
+      <p begin="2744.876s" xml:id="p1231" end="2745.959s">Oh, that&#039;s pretty cool.</p>
+      <p begin="2745.959s" xml:id="p1232" end="2760.626s">For years, yeah.</p>
+      <p begin="2760.626s" xml:id="p1233" end="2762.334s">If you want to borrow<br />any of our outfits...</p>
+      <p begin="2762.334s" xml:id="p1234" end="2764.792s">Yes, you&#039;re more than welcome.</p>
+      <p begin="2764.792s" xml:id="p1235" end="2766.501s">Oh, I&#039;m so bored.</p>
+      <p begin="2766.501s" xml:id="p1236" end="2767.501s">Will it take forever?</p>
+      <p begin="2767.501s" xml:id="p1237" end="2768.584s">Are you drunk yet?</p>
+      <p begin="2768.584s" xml:id="p1238" end="2769.709s">-Yeah.<br />-Good.</p>
+      <p begin="2769.709s" xml:id="p1239" end="2770.834s">Yeah, they&#039;re really impatient.</p>
+      <p begin="2770.834s" xml:id="p1240" end="2772.667s">I&#039;m going.</p>
+      <p begin="2772.667s" xml:id="p1241" end="2774.959s">They&#039;re bored sh--less and<br />it&#039;s Peng&#039;s birthday tonight.</p>
+      <p begin="2774.959s" xml:id="p1242" end="2777.417s">We still have a party<br />to give them after.</p>
+      <p begin="2777.417s" xml:id="p1243" end="2779.167s">So, like, it&#039;s<br />stressing me out a lot.</p>
+      <p begin="2779.167s" xml:id="p1244" end="2782.334s">Rache?<br />Where are you at?</p>
+      <p begin="2782.334s" xml:id="p1245" end="2786.459s">They&#039;re just ----ing bored<br />and they&#039;re drunk.</p>
+      <p begin="2786.459s" xml:id="p1246" end="2787.876s">We&#039;re being antsy.</p>
+      <p begin="2787.876s" xml:id="p1247" end="2789.375s">This has been a minute.</p>
+      <p begin="2789.375s" xml:id="p1248" end="2791.25s">-Wait, there&#039;s vodka.<br />-No, look, there&#039;s food.</p>
+      <p begin="2791.25s" xml:id="p1249" end="2793.209s">-Thank you.<br />-Ugh!</p>
+      <p begin="2793.209s" xml:id="p1250" end="2797.292s">So cute, I feel like a rabbit.</p>
+      <p begin="2797.292s" xml:id="p1251" end="2799.292s">So, this is a shaved<br />Brussels sprout salad...</p>
+      <p begin="2799.292s" xml:id="p1252" end="2802.375s">-Oh!<br />-With truffle oil on top.</p>
+      <p begin="2802.375s" xml:id="p1253" end="2803.459s">Ooh, I love truffle.</p>
+      <p begin="2803.459s" xml:id="p1254" end="2805.25s">You&#039;re gonna try<br />a wig on, come on.</p>
+      <p begin="2805.25s" xml:id="p1255" end="2806.584s">We&#039;re gonna try a wig, bro!</p>
+      <p begin="2806.584s" xml:id="p1256" end="2808.876s">The things that we do<br />in this boat, eh?</p>
+      <p begin="2808.876s" xml:id="p1257" end="2810.167s">I think it works.</p>
+      <p begin="2810.167s" xml:id="p1258" end="2812.542s">I think the outfit<br />is complete, right?</p>
+      <p begin="2812.542s" xml:id="p1259" end="2814.209s">You guys look amazing.</p>
+      <p begin="2814.209s" xml:id="p1260" end="2816.292s">I am dying.<br />I am dying right now.</p>
+      <p begin="2816.292s" xml:id="p1261" end="2818.501s">-Hi.<br />-Hi, baby gorgeous.</p>
+      <p begin="2818.501s" xml:id="p1262" end="2819.751s">Hi, baby gorgeous.</p>
+      <p begin="2819.751s" xml:id="p1263" end="2822.083s">-What&#039;s going on?<br />-Not much.</p>
+      <p begin="2822.083s" xml:id="p1264" end="2826.584s">Yeah, I know.</p>
+      <p begin="2826.584s" xml:id="p1265" end="2827.959s">Your next course is on its way.</p>
+      <p begin="2827.959s" xml:id="p1266" end="2829.334s">I&#039;m plating now.</p>
+      <p begin="2829.334s" xml:id="p1267" end="2832.167s">I don&#039;t know,<br />I&#039;m not hungry anymore.</p>
+      <p begin="2832.167s" xml:id="p1268" end="2836.0s">Ben, you know I&#039;m pretty chill,<br />but I&#039;m ----ing bored.</p>
+      <p begin="2836.0s" xml:id="p1269" end="2837.209s">I&#039;m changing.</p>
+      <p begin="2837.209s" xml:id="p1270" end="2838.959s">Okay.</p>
+      <p begin="2838.959s" xml:id="p1271" end="2840.292s">Rachel, let&#039;s just do dessert.</p>
+      <p begin="2840.292s" xml:id="p1272" end="2841.459s">Yeah, I don&#039;t know<br />where they went.</p>
+      <p begin="2841.459s" xml:id="p1273" end="2842.667s">Most of them have<br />left the table.</p>
+      <p begin="2842.667s" xml:id="p1274" end="2843.834s">What happened?</p>
+      <p begin="2843.834s" xml:id="p1275" end="2845.083s">They&#039;re like, &quot;We&#039;re bored,</p>
+      <p begin="2845.083s" xml:id="p1276" end="2846.083s">we&#039;re getting ready<br />for the rave.&quot;</p>
+      <p begin="2846.083s" xml:id="p1277" end="2849.709s">And I&#039;m gonna cry.<br />What happened?</p>
+      <p begin="2849.709s" xml:id="p1278" end="2852.584s">Ben, you know I&#039;m pretty chill,<br />but I&#039;m ----ing bored.</p>
+      <p begin="2852.584s" xml:id="p1279" end="2853.584s">I&#039;m changing.</p>
+      <p begin="2853.584s" xml:id="p1280" end="2854.709s">-Okay.<br />-Oh, yeah!</p>
+      <p begin="2854.709s" xml:id="p1281" end="2855.959s">Rachel, let&#039;s just do dessert.</p>
+      <p begin="2855.959s" xml:id="p1282" end="2857.375s">Yeah, I don&#039;t know<br />where they went.</p>
+      <p begin="2857.375s" xml:id="p1283" end="2858.834s">Most of them have<br />left the table.</p>
+      <p begin="2858.834s" xml:id="p1284" end="2859.959s">Dump it, get rid of it,<br />I don&#039;t care.</p>
+      <p begin="2859.959s" xml:id="p1285" end="2861.042s">Suck my dick.</p>
+      <p begin="2861.042s" xml:id="p1286" end="2862.292s">I&#039;m ----ing eating it.</p>
+      <p begin="2862.292s" xml:id="p1287" end="2862.959s">Yeah.</p>
+      <p begin="2862.959s" xml:id="p1288" end="2864.334s">I&#039;ll see you guys for the party.</p>
+      <p begin="2864.334s" xml:id="p1289" end="2865.459s">Yeah.</p>
+      <p begin="2865.459s" xml:id="p1290" end="2866.626s">I feel really bad.</p>
+      <p begin="2866.626s" xml:id="p1291" end="2869.292s">Mm.</p>
+      <p begin="2869.292s" xml:id="p1292" end="2871.751s">If one of you would like<br />to go on this side,</p>
+      <p begin="2871.751s" xml:id="p1293" end="2877.584s">and you can join here.</p>
+      <p begin="2877.584s" xml:id="p1294" end="2880.626s">My ass is gonna be able to<br />jiggle in this type of material.</p>
+      <p begin="2880.626s" xml:id="p1295" end="2882.375s">How does this thing go?</p>
+      <p begin="2882.375s" xml:id="p1296" end="2883.584s">Hi!</p>
+      <p begin="2883.584s" xml:id="p1297" end="2885.042s">It was so good,<br />everything was so good.</p>
+      <p begin="2885.042s" xml:id="p1298" end="2886.792s">-Oh, my gosh, amazing.<br />-Thank you...</p>
+      <p begin="2886.792s" xml:id="p1299" end="2888.375s">These are edible, by the way.</p>
+      <p begin="2888.375s" xml:id="p1300" end="2890.125s">-The whole thing?<br />-The whole thing.</p>
+      <p begin="2890.125s" xml:id="p1301" end="2892.375s">It&#039;s like a white<br />chocolate that&#039;s done with</p>
+      <p begin="2892.375s" xml:id="p1302" end="2894.626s">a glaze and a mold, and<br />then inside of it is lemon curd,</p>
+      <p begin="2894.626s" xml:id="p1303" end="2898.0s">along with blueberries<br />and whipped cream.</p>
+      <p begin="2898.0s" xml:id="p1304" end="2899.25s">All right, let&#039;s go, girls.</p>
+      <p begin="2899.25s" xml:id="p1305" end="2902.292s">This has been<br />a day one from hell.</p>
+      <p begin="2902.292s" xml:id="p1306" end="2904.167s">-We&#039;ll get faster.<br />-Yeah, yeah, yeah, no doubt.</p>
+      <p begin="2904.167s" xml:id="p1307" end="2906.209s">Today&#039;s been a<br />sh-------ing-show.</p>
+      <p begin="2906.209s" xml:id="p1308" end="2908.542s">These guests are<br />definitely ready to party,</p>
+      <p begin="2908.542s" xml:id="p1309" end="2910.834s">and I&#039;m gonna<br />hopefully turn this around.</p>
+      <p begin="2910.834s" xml:id="p1310" end="2912.375s">Oh, I feel alive.</p>
+      <p begin="2912.375s" xml:id="p1311" end="2915.25s">Camille, do you want her in<br />bed by a certain time?</p>
+      <p begin="2915.25s" xml:id="p1312" end="2917.584s">Will you assign her a job<br />before she goes down?</p>
+      <p begin="2917.584s" xml:id="p1313" end="2919.375s">Oh, my God, I love that!</p>
+      <p begin="2919.375s" xml:id="p1314" end="2921.918s">And then they wanna see his face<br />on everyone, if that&#039;s cool.</p>
+      <p begin="2921.918s" xml:id="p1315" end="2923.792s">-Let&#039;s go.<br />-Okay, let&#039;s go.</p>
+      <p begin="2923.792s" xml:id="p1316" end="2925.959s">Yes, all right, you ready, dude?</p>
+      <p begin="2925.959s" xml:id="p1317" end="2927.667s">Well, well, well, look at you.</p>
+      <p begin="2927.667s" xml:id="p1318" end="2929.417s">All right, man in box.</p>
+      <p begin="2929.417s" xml:id="p1319" end="2931.459s">Y&#039;all... oh!</p>
+      <p begin="2931.459s" xml:id="p1320" end="2936.375s">-Woo!<br />-Yes!</p>
+      <p begin="2936.375s" xml:id="p1321" end="2941.209s">Woo!</p>
+      <p begin="2941.209s" xml:id="p1322" end="2943.417s">[cheering]</p>
+      <p begin="2943.417s" xml:id="p1323" end="2947.459s">Yas, queen, twerk,<br />twerk, and twerk!</p>
+      <p begin="2947.459s" xml:id="p1324" end="2948.792s">Yes, yes, yes!</p>
+      <p begin="2948.792s" xml:id="p1325" end="2951.584s">Whoa!</p>
+      <p begin="2951.584s" xml:id="p1326" end="2956.584s">We&#039;re gonna set the ----ing<br />thing on fire.</p>
+      <p begin="2956.584s" xml:id="p1327" end="2961.834s">♪ Happy birthday to you</p>
+      <p begin="2961.834s" xml:id="p1328" end="2963.292s">Oh, my God, thank you.</p>
+      <p begin="2963.292s" xml:id="p1329" end="2964.584s">Oh, my God, thank you so much.</p>
+      <p begin="2964.584s" xml:id="p1330" end="2968.167s">Woo!</p>
+      <p begin="2968.167s" xml:id="p1331" end="2969.918s">I&#039;m gonna keep you up this<br />evening...</p>
+      <p begin="2969.918s" xml:id="p1332" end="2971.501s">-Okay.<br />-Because I&#039;m gonna be on early.</p>
+      <p begin="2971.501s" xml:id="p1333" end="2972.626s">Bye, guys!</p>
+      <p begin="2972.626s" xml:id="p1334" end="2973.959s">Thank you, bye-bye.</p>
+      <p begin="2973.959s" xml:id="p1335" end="2976.667s">Well, that was that.</p>
+      <p begin="2976.667s" xml:id="p1336" end="2979.542s">You can go down.</p>
+      <p begin="2979.542s" xml:id="p1337" end="2980.876s">I&#039;m tired.</p>
+      <p begin="2980.876s" xml:id="p1338" end="2981.876s">Night, guys, see you<br />in the morning.</p>
+      <p begin="2981.876s" xml:id="p1339" end="2983.0s">See you, mate.</p>
+      <p begin="2983.0s" xml:id="p1340" end="2984.375s">Oh, my God, how is<br />it only day one?</p>
+      <p begin="2984.375s" xml:id="p1341" end="2986.209s">-Kill me now.<br />-We&#039;re going to bed.</p>
+      <p begin="2986.209s" xml:id="p1342" end="2988.918s">We will see<br />y&#039;all tomorrow morning.</p>
+      <p begin="2988.918s" xml:id="p1343" end="2990.375s">Good night.</p>
+      <p begin="2990.375s" xml:id="p1344" end="2997.959s">I&#039;m broken.</p>
+      <p begin="2997.959s" xml:id="p1345" end="3002.25s">I am feeling so<br />unbelievably overwhelmed,</p>
+      <p begin="3002.25s" xml:id="p1346" end="3005.501s">I feel like I&#039;ve bitten off<br />far more than I can chew,</p>
+      <p begin="3005.501s" xml:id="p1347" end="3010.584s">and I do not feel prepared<br />or capable of doing this job.</p>
+      <p begin="3010.584s" xml:id="p1348" end="3016.042s">Ugh.</p>
+      <p begin="3016.042s" xml:id="p1349" end="3017.542s">Do you wanna finish up there,</p>
+      <p begin="3017.542s" xml:id="p1350" end="3019.834s">and then the bar needs<br />to be restocked.</p>
+      <p begin="3019.834s" xml:id="p1351" end="3021.959s">I&#039;ve seen them drink Pellegrino,</p>
+      <p begin="3021.959s" xml:id="p1352" end="3023.584s">and lots of flat<br />water, actually.</p>
+      <p begin="3023.584s" xml:id="p1353" end="3024.584s">They like to drink some water.</p>
+      <p begin="3024.584s" xml:id="p1354" end="3028.209s">They do.</p>
+      <p begin="3028.209s" xml:id="p1355" end="3031.042s">This is, like,<br />the stupidest sh--.</p>
+      <p begin="3031.042s" xml:id="p1356" end="3034.626s">I think I&#039;ve been up<br />for 24 hours.</p>
+      <p begin="3034.626s" xml:id="p1357" end="3037.125s">I am so ----ing tired.</p>
+      <p begin="3037.125s" xml:id="p1358" end="3039.167s">-How are you holding up?<br />-Water&#039;s stocked.</p>
+      <p begin="3039.167s" xml:id="p1359" end="3040.584s">All the fridges are like that?</p>
+      <p begin="3040.584s" xml:id="p1360" end="3042.542s">Yeah, the look pretty<br />good with everything</p>
+      <p begin="3042.542s" xml:id="p1361" end="3043.792s">that everyone&#039;s drinking.</p>
+      <p begin="3043.792s" xml:id="p1362" end="3045.25s">Cool.</p>
+      <p begin="3045.25s" xml:id="p1363" end="3048.167s">If anything, you know,<br />there&#039;s always tomorrow.</p>
+      <p begin="3048.167s" xml:id="p1364" end="3051.167s">We&#039;ll walk through<br />and we&#039;ll get you to bed.</p>
+      <p begin="3051.167s" xml:id="p1365" end="3051.918s">Oh.</p>
+      <p begin="3051.918s" xml:id="p1366" end="3054.792s">The crew area needs a vacuum.</p>
+      <p begin="3054.792s" xml:id="p1367" end="3058.375s">The crew needs<br />a vacuum right now?</p>
+      <p begin="3058.375s" xml:id="p1368" end="3060.792s">If you don&#039;t want to, know<br />that I&#039;m gonna do it, so.</p>
+      <p begin="3060.792s" xml:id="p1369" end="3066.292s">I&#039;m gonna go check the<br />fridges while you vacuum.</p>
+      <p begin="3066.292s" xml:id="p1370" end="3068.334s">Literally have<br />to stop what I&#039;m doing</p>
+      <p begin="3068.334s" xml:id="p1371" end="3070.334s">to chase her around the boat.</p>
+      <p begin="3070.334s" xml:id="p1372" end="3073.167s">And it&#039;s, like,<br />1,800 flights of stairs.</p>
+      <p begin="3073.167s" xml:id="p1373" end="3075.959s">There&#039;s no flat water in<br />the glow fridge.</p>
+      <p begin="3075.959s" xml:id="p1374" end="3080.292s">This water, right here,<br />it&#039;s in the glow fridge.</p>
+      <p begin="3080.292s" xml:id="p1375" end="3083.0s">Babe, I just went down to<br />the fridge, it&#039;s not stocked.</p>
+      <p begin="3083.0s" xml:id="p1376" end="3084.25s">Okay, let&#039;s go down<br />to the fridge.</p>
+      <p begin="3084.25s" xml:id="p1377" end="3085.584s">And let&#039;s bring some water<br />with us.</p>
+      <p begin="3085.584s" xml:id="p1378" end="3088.042s">And, like, as much<br />as you hate to hear it,</p>
+      <p begin="3088.042s" xml:id="p1379" end="3090.25s">I hate to tell you even more.</p>
+      <p begin="3090.25s" xml:id="p1380" end="3091.667s">Like, trust me.</p>
+      <p begin="3091.667s" xml:id="p1381" end="3094.125s">There&#039;s a way to lead<br />and there&#039;s bossing.</p>
+      <p begin="3094.125s" xml:id="p1382" end="3095.584s">We&#039;re trying to get you to bed,</p>
+      <p begin="3095.584s" xml:id="p1383" end="3099.167s">but we&#039;re also trying to<br />get you to do it right.</p>
+      <p begin="3099.167s" xml:id="p1384" end="3102.375s">Bossing is I&#039;m gonna push<br />you down, tell you what to do,</p>
+      <p begin="3102.375s" xml:id="p1385" end="3104.292s">and make you do it</p>
+      <p begin="3104.292s" xml:id="p1386" end="3105.959s">because that&#039;s what<br />you&#039;re just gonna do.</p>
+      <p begin="3105.959s" xml:id="p1387" end="3108.25s">And that does not<br />sit well with me at all.</p>
+      <p begin="3108.25s" xml:id="p1388" end="3110.083s">Take a look in this fridge.</p>
+      <p begin="3110.083s" xml:id="p1389" end="3112.0s">There&#039;s space for flat,<br />there&#039;s space for Pellegrino,</p>
+      <p begin="3112.0s" xml:id="p1390" end="3113.876s">there&#039;s space for<br />more sodas right here.</p>
+      <p begin="3113.876s" xml:id="p1391" end="3115.542s">This is an empty fridge to me.</p>
+      <p begin="3115.542s" xml:id="p1392" end="3117.25s">Right, but there&#039;s<br />flat water in here.</p>
+      <p begin="3117.25s" xml:id="p1393" end="3119.0s">If she doesn&#039;t wanna<br />be corrected,</p>
+      <p begin="3119.0s" xml:id="p1394" end="3120.167s">just do it correctly.</p>
+      <p begin="3120.167s" xml:id="p1395" end="3121.459s">Ugh.</p>
+      <p begin="3121.459s" xml:id="p1396" end="3123.959s">You could stock it with whatever<br />you want, as long as it&#039;s full.</p>
+      <p begin="3123.959s" xml:id="p1397" end="3125.375s">I&#039;m just trying<br />to be real with you.</p>
+      <p begin="3125.375s" xml:id="p1398" end="3126.959s">You should just stock<br />a fridge</p>
+      <p begin="3126.959s" xml:id="p1399" end="3128.334s">so I don&#039;t have to tell<br />you how to do it.</p>
+      <p begin="3128.334s" xml:id="p1400" end="3129.292s">It&#039;s easy.</p>
+      <p begin="3129.292s" xml:id="p1401" end="3131.584s">You said put flat water<br />in here, and I did.</p>
+      <p begin="3131.584s" xml:id="p1402" end="3133.626s">This girl&#039;s getting<br />on my nerves.</p>
+      <p begin="3133.626s" xml:id="p1403" end="3136.959s">This is gonna be a long season.</p>
+      <p begin="3136.959s" xml:id="p1404" end="3138.834s">This season on &quot;Below Deck&quot;...</p>
+      <p begin="3138.834s" xml:id="p1405" end="3141.375s">♪ Yeah, I&#039;d like to know</p>
+      <p begin="3141.375s" xml:id="p1406" end="3147.042s">♪ Where you got the notion</p>
+      <p begin="3147.042s" xml:id="p1407" end="3151.042s">♪ To rock the boat</p>
+      <p begin="3151.042s" xml:id="p1408" end="3156.167s">♪ Don&#039;t rock the boat</p>
+      <p begin="3156.167s" xml:id="p1409" end="3158.792s">Is dessert gonna<br />be you, Captain?</p>
+      <p begin="3158.792s" xml:id="p1410" end="3160.375s">I think I&#039;m schvitzing.</p>
+      <p begin="3160.375s" xml:id="p1411" end="3162.209s">Woo!</p>
+      <p begin="3162.209s" xml:id="p1412" end="3163.292s">Whoa.</p>
+      <p begin="3163.292s" xml:id="p1413" end="3164.626s">Maybe yachting&#039;s<br />just not for you.</p>
+      <p begin="3164.626s" xml:id="p1414" end="3167.792s">These guests, they<br />like to get ----ed up.</p>
+      <p begin="3167.792s" xml:id="p1415" end="3173.167s">I&#039;m definitely on their<br />wavelength.</p>
+      <p begin="3173.167s" xml:id="p1416" end="3174.459s">Woo!</p>
+      <p begin="3174.459s" xml:id="p1417" end="3178.375s">I do like to frequent intimate<br />relations with the opposite sex.</p>
+      <p begin="3178.375s" xml:id="p1418" end="3185.083s">A week with no sex<br />for me is really hard.</p>
+      <p begin="3185.083s" xml:id="p1419" end="3186.584s">You look very Namaste.</p>
+      <p begin="3186.584s" xml:id="p1420" end="3189.0s">-Oh!<br />-Woo!</p>
+      <p begin="3189.0s" xml:id="p1421" end="3191.918s">Welcome to the circus.</p>
+      <p begin="3191.918s" xml:id="p1422" end="3194.959s">We are going to work<br />your asses to the bone.</p>
+      <p begin="3194.959s" xml:id="p1423" end="3196.584s">We&#039;re gonna lose<br />this one, quickly!</p>
+      <p begin="3196.584s" xml:id="p1424" end="3197.584s">Hold it, hold it, hold it.</p>
+      <p begin="3197.584s" xml:id="p1425" end="3199.584s">What the [bleep] is he doing?</p>
+      <p begin="3199.584s" xml:id="p1426" end="3201.542s">Keep your head down.</p>
+      <p begin="3201.542s" xml:id="p1427" end="3203.125s">Whoa!</p>
+      <p begin="3203.125s" xml:id="p1428" end="3204.542s">Can you be a bit<br />more erect, please?</p>
+      <p begin="3204.542s" xml:id="p1429" end="3207.292s">You will lose your job<br />because you ----ed up.</p>
+      <p begin="3207.292s" xml:id="p1430" end="3209.501s">Why am I doing all the ----ing<br />dishes on the yacht?</p>
+      <p begin="3209.501s" xml:id="p1431" end="3212.918s">If you&#039;re looking for sympathy,<br />it&#039;s in the dictionary between</p>
+      <p begin="3212.918s" xml:id="p1432" end="3215.792s">sh-- and &quot;syphilis.&quot;</p>
+      <p begin="3215.792s" xml:id="p1433" end="3218.959s">If my wig flies off,<br />somebody&#039;s jumping in to get it.</p>
+      <p begin="3218.959s" xml:id="p1434" end="3222.834s">My mind&#039;s there,<br />my heart&#039;s there.</p>
+      <p begin="3222.834s" xml:id="p1435" end="3224.792s">My body just won&#039;t cooperate.</p>
+      <p begin="3224.792s" xml:id="p1436" end="3226.542s">Ah!</p>
+      <p begin="3226.542s" xml:id="p1437" end="3230.959s">So, I&#039;ve made a decision.</p>
+      <p begin="3230.959s" xml:id="p1438" end="3235.959s">What the [bleep]<br />is going on up in here?</p>
+      <p begin="3235.959s" xml:id="p1439" end="3239.959s">♪ Don&#039;t rock the boat</p>
+    </div>
+  </body>
+</tt>
